@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>filter_basics – eBird Reviewer Handbook</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-b77ad8b8fd8f04bd21044df5c5bf7d25.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">eBird Reviewer Handbook</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Your_Filter_Assignment.html">Part 2: eBird Filters</a></li><li class="breadcrumb-item"><a href="./Filter_Basics.html">Filter Basics</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+      <a href="./index.html" class="sidebar-logo-link">
+      </a>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home Page</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Reviewer_Essentials.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reviewer Essentials</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Introduction.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Contacting_Other_Reviewers_and_eBird_Central.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contacting Other Reviewers and eBird Central</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part 1: How to use the Review Tools</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Important_Things_to_Know.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Important Things to Know</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Accessing_the_Review_Tools.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Accessing the Review Tools</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Your_Review_Assignment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Your Review Assignment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Navigating_the_Review_Tools.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Navigating the Review Tools</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./What_Records_Appear_in_the_Review_Queue.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">What Records Appear in the Review Queue</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Review_Decision_Status_and_Reason.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Review Decision, Status, and Reason</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Sequence_of_the_eBird_Review_Process.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sequence of the eBird Review Process</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./How_to_Review_Observations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">How to Review Observations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./The_eBird_Observation_Page.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">The eBird Observation Page</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./The_eBird_Checklist_Page.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">The eBird Checklist Page</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Quick_Review.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Quick Review</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Review_Decisions_and_Reason_Email_Templates.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Review Decisions and Reason Email Templates</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Reviewing_Shared_Checklists.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reviewing Shared Checklists</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Exotic_Species.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Exotic Species</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Other_Reviewing_Options.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Other Reviewing Options</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Common_Source_Errors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Common Source Errors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Search_Observations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Search Observations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Using_eBirds_Explore_Data_Tools_to_Find_Records_for_Review.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Using eBird’s Explore Data Tools to Find Records for Review</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Sensitive_Species.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sensitive Species</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part 2: eBird Filters</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Your_Filter_Assignment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Your Filter Assignment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Filter_Basics.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Filter Basics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Review_Tools_Filter_Tool.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Review Tools Filter Tool</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Comparing_Filters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Comparing Filters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./eBird_Central_Filter_Processes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">eBird Central Filter Processes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Comparing_Filters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Comparing Filters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Kiosk_Filters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Kiosk Filters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Non-species_Taxa_on_eBird_Filters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Non-species Taxa on eBird Filters</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part 3: eBird Policites and Miscellania</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Be_nice.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Be Nice</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Novice_eBirders_and_Merlin_Sound_ID.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Novice eBirders and Merlin Sound ID</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Timeliness.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Timeliness</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Transparency.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Transparency</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Review_Teams.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Review Teams</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Records_Committees.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Records Committees</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Special_Scenarios.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Special Scenarios</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./eBird_Blocklist.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">eBird Blocklist</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Known_Bugs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Known Bugs</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">APPENDIX A - Review Reasons</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Review_Reasons.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Review Reasons</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Checklist-level_Review_Reasons.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Checklist-level Review Reasons</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Observation-level_Review_Reasons.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Observation-level Review Reasons</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#filter-basics" id="toc-filter-basics" class="nav-link active" data-scroll-target="#filter-basics">Filter Basics&nbsp;&nbsp;</a>
+  <ul class="collapse">
+  <li><a href="#filter-examples" id="toc-filter-examples" class="nav-link" data-scroll-target="#filter-examples">Filter Examples&nbsp;</a></li>
+  <li><a href="#editing-a-filter" id="toc-editing-a-filter" class="nav-link" data-scroll-target="#editing-a-filter">Editing a Filter&nbsp;</a></li>
+  <li><a href="#activating-new-filters" id="toc-activating-new-filters" class="nav-link" data-scroll-target="#activating-new-filters">Activating new filters</a></li>
+  <li><a href="#deleting-filters" id="toc-deleting-filters" class="nav-link" data-scroll-target="#deleting-filters">Deleting filters&nbsp;</a></li>
+  <li><a href="#running-and-rerunning-data" id="toc-running-and-rerunning-data" class="nav-link" data-scroll-target="#running-and-rerunning-data">Running and Rerunning Data&nbsp;&nbsp;</a></li>
+  <li><a href="#editing-species-in-a-filter" id="toc-editing-species-in-a-filter" class="nav-link" data-scroll-target="#editing-species-in-a-filter">Editing Species in a Filter&nbsp;</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Your_Filter_Assignment.html">Part 2: eBird Filters</a></li><li class="breadcrumb-item"><a href="./Filter_Basics.html">Filter Basics</a></li></ol></nav></header>
+
+
+
+
+<section id="filter-basics" class="level1">
+<h1>Filter Basics&nbsp;&nbsp;</h1>
+<p><strong>Filters determine what records are sent to the Review Queue.</strong> Unusual records get “flagged” when filter limits are exceeded due to a species reported out-of-range, out-of-season, or in atypically high numbers.&nbsp;&nbsp;</p>
+<p><strong>Filters also control what the observer sees on their data entry checklist.</strong> The eBird checklist interface has two states:&nbsp;</p>
+<ul>
+<li>Expected species - every species with a filter limit set at a 1 or higher for that date&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Rare species - every species with a filter set to zero for that date.&nbsp;&nbsp;</li>
+</ul>
+<p>When an observer initiates a checklist on eBird Mobile or the eBird website, the checklist will automatically display the expected species based on filter values for that location and date. Rare species are by default not displayed, but observers can access them by entering common names or quick entry codes into the species box. Any species without a filter must be<a href="https://support.ebird.org/support/solutions/articles/48000948757-ebird-faqs#anchoraddspecies">manually added</a> to the list by the observer.&nbsp;&nbsp;</p>
+<p><strong>Filters Should:</strong></p>
+<ul>
+<li>Represent a reasonable maximum daily count for that species at a specific site within the filter area on a given date&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Reflect normal seasonal fluctuations in abundance as accurately as possible (in other words, filters for migratory species should not be the same value year-round)&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Be “living documents”; inspected regularly (at least once per year), and adjusted as necessary&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Be your best estimates – they don’t need to be perfect, just do your best&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Be data informed – Use the bar charts and high counts tools to help find the right limits&nbsp;</li>
+</ul>
+<p><strong>Filters Should Not:</strong></p>
+<ul>
+<li>Be set to the species’ all-time record high count (remember, filters should represent a typical maximum count that could be obtained in a single day of birding at a specific site. Regional record high counts are unlikely to be typical)&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Be so conservative that they regularly flag acceptable counts&nbsp;&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Be so loose that they miss major numerical typos or mis-entered counts&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Be outdated (see below)&nbsp;</li>
+</ul>
+<p><strong>Signs of outdated filters:</strong></p>
+<ul>
+<li>filter limits of 10,000 or 100,000 for many species&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>filter limits that start or end on the 1st of the month or have year-round values for migratory species&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>filter limits that do not reflect scaled migration periods (for example: most migratory species go from zero to a low number, then reach a peak, then drop to a low number again, and then reach zero again)&nbsp;</li>
+</ul>
+<p>We recommend watching our <a href="https://drive.google.com/file/d/1E_6E3KCyxwXUgBvsC3jv1ACIONMlW_7m/view?usp=drive_link">2020 webinar on filters</a> to get the most out of editing and managing your filters.</p>
+<section id="filter-examples" class="level2">
+<h2 class="anchored" data-anchor-id="filter-examples">Filter Examples&nbsp;</h2>
+<p><strong>A basic example:</strong> 1-4 Northern Shrikes are usually seen in a single day in January in Ontario. However, 5 individuals pushes the limits of what is credible in a single checklist at a single site without peer review or documentation. Therefore, the filter for Northern Shrike in Ontario should be set at 4 individuals for January. All reports of 5 or more Northern Shrikes in January will then be flagged for review in eBird.&nbsp;</p>
+<p><strong>Species with high abundance but patchy distribution:</strong> For birds that occur in large numbers but few locations within the filter area, such as waterfowl, continue to set the filter at the highest number you would expect to find in the area during a day’s birding. For example: if up to 10,000 Redheads can typically be found in a handful of lakes, but any report of more than 10,000 might be questionable, then set the Redhead filter to 10,000 for the entire region – even if the 10,000 Redheads are concentrated in only a few bodies of water.&nbsp;&nbsp;</p>
+<p><strong>Expected species that need careful consideration:</strong> Sometimes you still want to review records of expected but commonly mis-reported species (i.e., species with high error rates like Northern Goshawk or Common Raven). You may consider setting the filter artificially low to try and catch errors. A good compromise is to set the filter limit at 1, ensuring that the species appears on the default checklist for species entry, but if anyone reports more than one, the record will be reviewed.&nbsp;</p>
+</section>
+<section id="editing-a-filter" class="level2">
+<h2 class="anchored" data-anchor-id="editing-a-filter">Editing a Filter&nbsp;</h2>
+<p>If you have permissions to edit a filter, it will appear on the Filters page in the Review Tools. When you click on the blue filter name, you will see a page that looks like this:&nbsp;&nbsp;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-21.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p><strong>Additional Notes on the Filter Editing Page:</strong></p>
+<p><strong>Naming filters:</strong> Accurate filter names are essential for our filter editing during the taxonomy update process. Filter names are also displayed publicly in eBird Mobile: on a running checklist, check under Checklist Settings and note the Bird List. Any editor can rename filters, but we do request that you retain the “parent region” with the structure “Colombia–”, “Manitoba–”, or “New Jersey–”. Contact us if you would have questions before renaming filters.&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Regions:</strong> It is very important for you to double-check to ensure that the filter is properly assigned to regions. If you spot an error, let eBird Central know.&nbsp;&nbsp;</p>
+<p><strong>Copying Filters</strong>: Copy is useful for duplicating filters. For example: if the current filter is applied to two counties, and you’d like to give each county its own filter, you can create a copy of the existing filter and rename both the original and the new one to indicate their new specific counties. After copying a filter, edit each as needed and provide eBird Central with links to the filters along with the county or state codes (such as TX-101) they should be applied to. You can find these codes in the region page URL or in the “regions” link for existing filters. If you make a copy that you don’t need, please rename it “delete” and it will be removed within a day.&nbsp;</p>
+</section>
+<section id="activating-new-filters" class="level2">
+<h2 class="anchored" data-anchor-id="activating-new-filters">Activating new filters</h2>
+<p>To create a new filter please follow these steps:</p>
+<ol type="1">
+<li><p>Communicate with your review team if there are other reviewers in your region.</p></li>
+<li><p>Click copy on the most appropriate existing filter.&nbsp;</p></li>
+<li><p>The new filter will be titled “Copy of [old filter name]”. Note that it says Not Active. Rename the filter to the region you are making it for, following the standards described in Naming filters above.</p></li>
+<li><p>Edit the species list and values to match the region you are making the filter for. Bar charts are a useful tool for this.</p></li>
+<li><p>Once complete, send us the following. You can either email John (<a href="mailto:jfg228@cornell.edu">jfg228@cornell.edu)</a>, Jenna (<a href="mailto:jenna.curtis@cornell.edu">jenna.curtis@cornell.edu)</a> and Marshall (<a href="mailto:mji26@cornell.edu">mji26@cornell.edu), or post in #review-assignments in Slack.</a></p>
+<ol type="1">
+<li><p>Filter name, e.g., California–Los Angeles County–Coast</p></li>
+<li><p>Filter URL or ID, e.g., <a href="https://review.ebird.org/admin/viewFilter.htm?checklistID=CL25181" class="uri">https://review.ebird.org/admin/viewFilter.htm?checklistID=CL25181</a> or just CL25181</p></li>
+<li><p>Region code(s) for which it is to be activated. For most regions, you can get this from the URL of the eBird Explore page, e.g., IN-KL-ER for <a href="https://ebird.org/region/IN-KL-ER" class="uri">https://ebird.org/region/IN-KL-ER</a></p>
+<ol type="1">
+<li><a href="https://ebird.org/region/IN-KL-ER">For pelagic filters, which use arbitrary polygons, please use these instructions:</a><a href="https://docs.google.com/document/d/1-awQ4B9jH3h8QoV_EVD1SutPgmhm7k1B0i-YugZGU2s/edit">Pelagic Filters in eBird</a></li>
+</ol></li>
+<li><p><a href="https://ebird.org/region/IN-KL-ER">The UserID of any reviewers who need editing access.</a></p></li>
+<li><p>eBird Central will activate the filter and make sure you can edit it.</p></li>
+</ol></li>
+</ol>
+</section>
+<section id="deleting-filters" class="level2">
+<h2 class="anchored" data-anchor-id="deleting-filters">Deleting filters&nbsp;</h2>
+<p>The process to delete a filter is simple: simply revise the name of the filter to be exactly “delete”. We have a process that will remove these filters permanently once daily. Filters should be deleted if there is an official, active filter that takes precedence or if a copy was made inadvertently or is no longer needed. It is very helpful for eBird Central if excess filters can be deleted promptly. <strong>NOTE</strong>: It is only possible to delete a filter that is NOT active (i.e., not applied to a region or polygon). Please make sure that your filter is not active before renaming it to “delete”.&nbsp;</p>
+</section>
+<section id="running-and-rerunning-data" class="level2">
+<h2 class="anchored" data-anchor-id="running-and-rerunning-data">Running and Rerunning Data&nbsp;&nbsp;</h2>
+<p>This is one of the best tools in a filter editor’s arsenal to process data and create the most accurate filters. Click Run to pass existing records through the filter, see what records are flagged, make corrections to the filter, and then repeat this process.&nbsp;&nbsp;&nbsp;</p>
+<p><strong>What happens when you “Rerun” a filter?</strong></p>
+<p>You will receive an email notification once the run is complete, along with statistics from the data re-run (i.e., # of records added or removed). By checking records from the review region, you can then adjust the filters as needed and again run the data to remove or add more records. The Run button will be deactivated while a run is in progress or if the filter has not been edited since the last run. On rare occasions, a backlog of filter reruns can mean that the Run button stays grayed out for many hours. Let us know if it stays grayed out for even longer.&nbsp;</p>
+<p>Reviewed and Rereview records will not be affected by a rerun, but Deferred and Unreviewed records will be Accepted and removed from your Review Queue if they do not exceed the new filter limits (be cautious with Deferred records for this reason!). Similarly, previously Accepted, Unreviewed records that exceed new filter limits will be added to your Review Queue.&nbsp;&nbsp;</p>
+</section>
+<section id="editing-species-in-a-filter" class="level2">
+<h2 class="anchored" data-anchor-id="editing-species-in-a-filter">Editing Species in a Filter&nbsp;</h2>
+<p>The <strong>Species List</strong> is where most filter editing is done. The filter is completely interactive and most processes should be intuitive. Some controls are to the right of the species name, while the most common ones are within the monthly limits and can be slid back and forth. Here is a guide to your options:&nbsp;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-22.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p><strong>Change or delete count</strong> <strong>limits</strong> - Simply click inside a filter limit to change it. Once you do, you can type a new number or click DELETE. If you change a number to be the same as an adjacent number, eBird will automatically merge the two when saved. Thus, in the following example, if the May 1-June 1 period is changed to 0, then the new summer range will have a zero from May 1-Oct 8. When you delete a limit, it will adopt the count limit to the left of the former period. Note that after this happens, you can easily drag the bar to change the date.&nbsp;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-23.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Change date limits – When you hover over the divisions between date ranges, your cursor will change to allow you to drag the vertical dividers to the left or right. In the example below, the spring departure of Greater White-fronted Goose was adjusted. Note that once changes have been made, a blue star appears to the right of the bird’s name, indicating that you have changes that need to be saved. Please remember to save periodically and especially before leaving your editing session!&nbsp;</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-24.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p><strong>Add date range</strong> – Click the <strong>+</strong> symbol to the right of a bird’s name to add a filter period. Note that you only add one date, so the period will be added to the LEFT of the next chronological period. In the example below, a filter period is being added with a beginning date of Oct 1 and a value of 2. The period will extend to (but not include) Oct 8. Note that if a period were added starting Oct 15, the end date for that period would be Dec 31.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-25.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Copy dates and filter limits – Click the Copy icon to the right of a species name (looks like a pair of stacked pages) to copy the filter values to another species. You will be given two options: 1) Copy to existing lets you select one or more species with existing filter limits to replace with these values; or 2) Copy to new, which allows you type a species name and create new filter limits for that species. This latter option is especially useful for adding subspecies since they also take their parent species’ values. In either case, it can be helpful to copy the values as a starting point and then to edit them afterwards. In the example above, clicking the Copy icon for Snow Goose will apply the limits of 3000, 500, 50, 0, and 3000 to any other species you select.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ eBird Reviewer Handbook (v.1.0.0 | Nov 2025)
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
