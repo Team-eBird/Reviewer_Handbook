@@ -1,0 +1,41 @@
+# Common Sources of Errors 
+
+Not all incorrect records are due to observer unfamiliarity with birds. To properly respond to flagged checklists, it is often important to understand the ways errors can be introduced into a checklist.  
+
+## Submissions from eBird Mobile 
+
+Most observers now submit their eBird checklists directly from their smartphone. Although this process has been carefully vetted and usually works smoothly, please be alert for errors that could have occurred from the eBird Mobile data-entry system. If you spot something, email us at ebird\@cornell.edu immediately.  
+
+It can be possible to accidentally report a species (though usually not a "rare" species) on a list by inadvertently bumping or tapping the screen. Please give birders the benefit of the doubt that some entries may be simple typos.  
+
+You can identify mobile submissions by viewing the eBird checklist online, which always has an entry under the Checklist Comments that reads Submitted from eBird Mobile and includes the version; knowing the version is important to finding bugs. 
+
+## Submissions from bulk data uploads 
+
+Although most submissions to eBird come eBird Mobile or the online web application, it is possible to upload hundreds or even thousands of records via specially formatted spreadsheets. Because **data entry errors in bulk uploads are easily missed**, it is particularly important that you understand the[ bulk upload process](https://support.ebird.org/en/support/solutions/articles/48000907878-upload-spreadsheet-data-to-ebird) and make observers aware of records that seem questionable. 
+
+Bulk data uploads are rare, but when they occur you are sure to notice large pulses of historical data appearing in the queue. This can create difficulties for reviewers: in addition to the high volume of new review records, you may find that many of these records have broad-scale location information, estimated dates, imprecise counts, and no effort information. On rare occasion, a formatting error can cause more serious data-quality issues.  
+
+When you spot a “batch” of imported records, it is important to understand the following: 
+
+-   **Data entry errors are particularly likely with bulk uploads.** A single transposed line could result in 65 individuals of a rare species and only 1 individual of the expected species (rather than the reverse). 
+
+<!-- -->
+
+-   **Bulk uploads do not have a data validation system that the observer sees**. Unlike mobile or web entry, where the observer is asked to document unusual reports prior to checklist submission, the bulk upload tool provides no feedback to the observer when a record exceeds the filter. 
+
+<!-- -->
+
+-   **Commercial software may have outdated taxonomy.** Observers should be encouraged to update their taxonomy before uploading to eBird! 
+
+<!-- -->
+
+-   **Be cautious with accepting records simply because you trust that observer**, since any record could be a typo, especially with bulk uploads. Even the most skilled and diligent observers may create such errors without knowing it! 
+
+**Fixing bulk data upload issues**
+
+A special email may be necessarywhen a large number of errors come in a single upload. The following process is one that some reviewers have found helpful: First, use Search to query for the records that need review. Second, copy and paste the records from the Review Queue directly into Excel or a similar spreadsheet program (it may be necessary to copy the data first into a text file and then paste into Excel—but this usually works). Then send the observer the Excel file with comments on why the records are unusual. This provides the observer a chance to see the records that were identified as possible errors, and hopefully they will want to correct any errors you have helped to identify. Once the observer has verified the accuracy of the records, you can proceed with review as normal. 
+
+Upload errors can be corrected in the original file (assuming the original file is still available) and then re-uploaded as a new bulk data import session. The entire initial batch of erroneous bulk data can then be deleted using the “Delete Import” option under “Manage Imported Data” in My eBird. 
+
+Also, if an upload from a commercial product seems to be creating problems, please let eBird Central know ASAP.

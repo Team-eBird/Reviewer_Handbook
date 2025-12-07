@@ -1,0 +1,3 @@
+# Kiosk Filters 
+
+In addition to state, county, and other regional filters, some regions in the U.S. and Canada may be governed by filters developed specifically for a certain refuge or park that has purchased an eBird TrailTracker (or eBird kiosk). These use a customized filter for the specific park and sometimes are initially developed by park or refuge personnel. As an editor for the area, you should be able to review these filters as well. If you cannot, please get in touch. Please note that records submitted from these kiosks are not used in public eBird data.

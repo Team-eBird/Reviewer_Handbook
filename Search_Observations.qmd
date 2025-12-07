@@ -1,0 +1,17 @@
+## Search Observations 
+
+The Search tool can be used to locate records of rare and unusual birds that you wish to put back through the review process, or simply to explore the database. You must enter enough search criteria to limit the search results, otherwise you’ll receive a note encouraging you to add additional search criteria. When you click the Search tab, the Search for Observations screen displays with a list of criteria on which to base your database query.  
+
+![](images/paste-20.png){fig-align="center"}
+
+**Additional Notes when Searching Records**
+
+Note that at least one of the following fields is needed for a search: submission ID, location name, specific taxa, or User ID. Additional notes about specific fields below: 
+
+**Sub Review Decision:** Please be careful with this field, since it defaults to Public. Any checklist marked Not Public will be excluded unless you change this to Any decision. 
+
+**Review Decision:** Selecting either Accepted or Unconfirmed will return reviewed and unreviewed records (i.e., those that have undergone the review process AND those that were automatically assigned a decision by the system but have not been reviewed by a regional editor) 
+
+**Species:** If a species has subspecies groups, you must enter those groups as well to return all records. For example, to search for all Green-winged Teal you need to enter Green-winged Teal AND its subspecies groups: Green-winged Teal (Eurasian), Green-winged Teal (American), and Green-winged Teal (intergrade). 
+
+**Searching All Records:** Because checklist and observation-level review are treated separately, to get ALL records you must choose Any decision on both Sub Review decision and Review decision.

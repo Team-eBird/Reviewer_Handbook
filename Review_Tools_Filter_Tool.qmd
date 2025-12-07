@@ -1,0 +1,13 @@
+## Review Tools filter tool 
+
+Whenever you are reviewing a record in the Review Tools, you have the option to click Filter. This will open the filter page for just that species and filter. However, there are some important pieces to understand about how this works. When you click Filter for a species on the filter, it looks like this: 
+
+![](images/paste-26.png){fig-align="center"}
+
+When a species is not on the filter, the Filter button still opens a page where you can add it, which is a helpful way to improve your filters. Note the Add Species button and checkmark here, which indicates that you arrived at a species that is not on the filter but could be added. It will only be added after you make sure the species is checked and click the blue Add Species button.
+
+![](images/paste-27.png){fig-align="center"}
+
+When Filter is clicked from the Review Tools page for a subspecies group (or any taxon that “counts” for a species, including intergrades) it opens a page with the parent species, even though that parent may already be on the filter. Again, if the Add Species button appears, it is a candidate for addition to the filter. This page is helpful to make sure the filter values match for both the subspecies and the parent. The below example shows that Black Guillemot (grylle Group) can be added with a single additional click by clicking Add Species. If the filter limits needed to be changed, that could be done here as well.
+
+![](images/paste-28.png){fig-align="center"}

@@ -1,0 +1,12 @@
+# Contacting other reviewers and eBird Central
+
+There are several ways to stay connected with other reviewers and eBird Central.
+
+**Slack:** The easiest and most effective way is through the dedicated eBird reviewer slackspace. This space is used for announcements, updates, and collaboration across the global reviewer community. You received an invitation link when you were set up as a reviewer; please feel free to email John, Jenna or Marshall if you need a refreshed link.
+
+**Reviewer directory:** Email contact information for all reviewers can be found in a [spreadsheet](https://docs.google.com/spreadsheets/d/1i08drC6kGqequ_uRB6vgRdMaClcTljX0pvDzSS0ARic/edit?gid=124519153#gid=124519153) that lists all reviewers for every region in the world. This spreadsheet is also available in the eBird Reviewer Google folder: [tinyurl.com/eBirdReview](http://tinyurl.com/eBirdreview).
+
+**Regional communication:** Many review teams around the world also maintain their own Slack channels, WhatsApp groups, or other messaging spaces of their choice to coordinate locally about review decisions, filter edits and data quality in their region. eBird Central highly encourages creating such a group for your region if one does not already exist.
+
+\
+**eBird Central:** In addition to Slack, you can always email questions to Marshall, Jenna, and/or John using their emails above.\

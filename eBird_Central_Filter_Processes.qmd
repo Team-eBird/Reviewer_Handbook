@@ -1,0 +1,17 @@
+# eBird Central Filter Processes 
+
+We have a few automated processes that we run regularly. These are: 
+
+**Filter sync:** This process can be run manually by eBird staff. It is most useful when expanding a filter to a new region or refining a filter that has not had good attention from an editor previously. Filter sync will adjust a given filter by: 
+
+-   Adding any species or hybrid to the list (with year-round limit of 0) that has Accepted records in eBird from the region but is not already on the filter 
+
+<!-- -->
+
+-   Removing any species and any of its daughter taxa (e.g., subspecies groups) that do not have at least one Accepted record for the region. We do not automatically add subspecies groups with accepted records, so reviewers must add these manually. 
+
+**Subspecies Sync**: If a subspecies group (ISSF), intergrade, or subspecific form is on a filter, we always require that the parent species is also on the filter. This is in part because some observers choose Hide Subspecies on their checklists, so we have to ensure that they can see all species for the region. This automatic process runs once a day and automatically adds parent species to the filter, but excludes Rock Pigeon and Muscovy Duck because feral (i.e., domestic) taxa for these species are a special case. 
+
+**Species and Hybrid Addition**: When new species or hybrids are accepted for a region, they are automatically added to the filter daily. Some observers do not understand how to use Add Species (web) or Search entire taxonomy (Mobile), so having these rarities available helps them enter the species if they have seen it; editors should obviously increase the counts if these taxa should be added as a regular occurring form. We run this about once a week and we exclude the parents of domestic taxa (e.g., Mallard, Graylag Goose, Muscovy Duck) since the domestic forms are widespread and we do not want the parent taxa appearing on filters. Note that this process does add Escapees to the filter once they are accepted for a region.
+
+If any species is added to a filter that seems like it should not have been, please first check the filter and accepted records for your region. Review any records that need it and then delete the species from the filter. If you notice any other issues with these processes please let us know.

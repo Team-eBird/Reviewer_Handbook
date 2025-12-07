@@ -1,0 +1,43 @@
+# How to Review Observations 
+
+The basic task here is to Accept or Unconfirm unusual species and numbers. **Please try to keep your list of review records as short as possible by reviewing the observations on a regular basis.** Remember that review decisions remain in the database and any observation can be rereviewed at any time. 
+
+## Reviewing Observations from the Review Queue 
+
+Each row in the Review Queue has the basic information you will need to review a record (either directly on the page or through links). Some records will require you to examine the records to [contact the observer](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.p5ve219r7vbf) for details or to check the [observation page](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.bbsadu82dv02), which provides a useful link to [Quick Review](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.pi3i097zrk5p). The process below describes two methods by which records are reviewed on any page of the Review Tools.  
+
+## Method 1: reviewing individual records.
+
+Click on the email icon next to any record. From here you’ll see a template with three options: Unconfirm, Defer, or Accept. In most cases, you’ll choose Unconfirm or Accept. See [this section ](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.687s2eh15bgo)for more information on Defer. 
+
+You’ll be presented with a smaller modal to select a Review Decision (a default most likely one will be pre-selected) and the option to send an email. 
+
+We strongly encourage sending emails especially when Unconfirming a record so that users know how their records are being treated; this also gives them the opportunity to add more notes and potentially media. We also encourage sending an email when Accepting a record, as this encourages users to document their rarities well. 
+
+Your decision whether to Accept or Unconfirm a record should be based primarily on the documentation, as well as the core elements of the observation (date, location, count, observer experience). Some records can be confirmed without documentation, while others that are exceptionally unusual may not be acceptable without photos. \
+ 
+
+See [Appendix A](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.sglyuhchgvet) for an explanation of each Review Reason. 
+
+## Method 2: Bulk reviewing.
+
+Sometimes, you’ll want to select a number of records at once and apply the same review decision and reason without contacting the observer. This can be especially true for a continuing rarity, historical records of a once-common species, a batch of presumed correct records from an experienced observer, etc. 
+
+Select one or more records on which to work by marking the checkbox(es) on the left side of each record. Use the green bar above the Review Queue to carry out the following review actions on selected records in your list: 
+
+1.  **Assign a Review Decision:** All flagged records are initially set to a Review decision of Unconfirmed. If you are satisfied the record is correct, select Accept from the drop-down menu in the green bar next to Review decision. If you think the record should remain Unconfirmed, select that option from the drop-down menu instead.  
+
+Your decision whether to Accept or Unconfirm a record should be based primarily on the documentation, as well as the core elements of the observation (date, location, count, observer experience). Some records can be confirmed without documentation, while others that are exceptionally unusual may not be acceptable without photos. \
+ 
+
+2.  **Apply a Reason**: See [Appendix A](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.sglyuhchgvet) for an explanation of each Review Reason.  
+
+<!-- -->
+
+3.  **Add Notes**: The green bar above the Review Queue provides a place to copy and paste pertinent reviewer or observer notes, links to photos, as well as written details on the record. When an observer replies with details, you should ask him/her to add the details into their Species Details in their eBird checklist itself. If the observer does not do this, you should paste them here so that a permanent record of the documentation is maintained within eBird. You (and other reviewers) will be able to see anything that you add here. It is very important to keep these comments professional and polite; the reviewer network will expand and this is a field that is permanently stored with the record and will be seen by those other than yourself.  
+
+<!-- -->
+
+4.   **Click “Change”**: This small but important step ensures any review actions are saved with the associated record.   
+
+You can use Shift + click to select a string of multiple records. **Again, please use the select all option with caution. Most mistakes in review happen when you select too many records at one time.**

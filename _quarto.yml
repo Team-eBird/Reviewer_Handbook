@@ -1,0 +1,125 @@
+project:
+  type: website
+
+website:
+  title: "eBird Reviewer Handbook"
+  navbar: True
+  page-footer: 
+    left:
+      - text: "eBird Reviewer Handbook (v.1.0.0 | Nov 2025)"
+    
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home Page
+      - href: Reviewer_Essentials.qmd
+        text: Reviewer Essentials
+      - href: Introduction.qmd
+        text: Introduction
+      - href: Contacting_Other_Reviewers_and_eBird_Central.qmd
+        text: Contacting Other Reviewers and eBird Central
+      - section: "Part 1: How to use the Review Tools"
+        contents: 
+          - href: Important_Things_to_Know.qmd
+            text: Important Things to Know
+          - href: Accessing_the_Review_Tools.qmd
+            text: Accessing the Review Tools
+          - href: Your_Review_Assignment.qmd
+            text: Your Review Assignment
+          - href: Navigating_the_Review_Tools.qmd
+            text: Navigating the Review Tools
+          - href: What_Records_Appear_in_the_Review_Queue.qmd
+            text: What Records Appear in the Review Queue
+          - href: Review_Decision_Status_and_Reason.qmd
+            text: Review Decision, Status, and Reason
+          - href: Sequence_of_the_eBird_Review_Process.qmd
+            text: Sequence of the eBird Review Process
+          - href: How_to_Review_Observations.qmd
+            text: How to Review Observations
+          - href: The_eBird_Observation_Page.qmd
+            text: The eBird Observation Page
+          - href: The_eBird_Checklist_Page.qmd
+            text: The eBird Checklist Page
+          - href: Quick_Review.qmd
+            text: Quick Review
+          - href: Review_Decisions_and_Reason_Email_Templates.qmd
+            text: Review Decisions and Reason Email Templates
+          - href: Reviewing_Shared_Checklists.qmd
+            text: Reviewing Shared Checklists
+          - href: Exotic_Species.qmd
+            text: Exotic Species
+          - href: Other_Reviewing_Options.qmd
+            text: Other Reviewing Options
+          - href: Common_Source_Errors.qmd
+            text: Common Source Errors
+          - href: Search_Observations.qmd
+            text: Search Observations
+          - href: Using_eBirds_Explore_Data_Tools_to_Find_Records_for_Review.qmd
+            text: Using eBird's Explore Data Tools to Find Records for Review
+          - href: Sensitive_Species.qmd
+            text: Sensitive Species
+      - section: "Part 2: eBird Filters"
+        contents: 
+          - href: Your_Filter_Assignment.qmd
+            text: Your Filter Assignment
+          - href: Filter_Basics.qmd
+            text: Filter Basics
+          - href: Review_Tools_Filter_Tool.qmd
+            text: Review Tools Filter Tool
+          - href: Comparing_Filters.qmd
+            text: Comparing Filters
+          - href: eBird_Central_Filter_Processes.qmd
+            text: eBird Central Filter Processes
+            text: Comparing Filters
+          - href: Kiosk_Filters.qmd
+            text: Kiosk Filters
+          - href: Non-species_Taxa_on_eBird_Filters.qmd
+            text: Non-species Taxa on eBird Filters
+      - section: "Part 3: eBird Policites and Miscellania"
+        contents: 
+          - href: Be_nice.qmd
+            text: Be Nice
+          - href: Novice_eBirders_and_Merlin_Sound_ID.qmd
+            text: Novice eBirders and Merlin Sound ID
+          - href: Timeliness.qmd
+            text: Timeliness
+          - href: Transparency.qmd
+            text: Transparency
+          - href: Review_Teams.qmd
+            text: Review Teams
+          - href: Records_Committees.qmd
+            text: Records Committees
+          - href: Special_Scenarios.qmd
+            text: Special Scenarios
+          - href: eBird_Blocklist.qmd
+            text: eBird Blocklist
+          - href: Known_Bugs.qmd
+            text: Known Bugs
+      - section: "APPENDIX A - Review Reasons"
+        contents: 
+          - href: Review_Reasons.qmd
+            text: Review Reasons
+          - href: Checklist-level_Review_Reasons.qmd
+            text: Checklist-level Review Reasons
+          - href: Observation-level_Review_Reasons.qmd
+            text: Observation-level Review Reasons
+
+            
+          
+
+
+      
+          
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

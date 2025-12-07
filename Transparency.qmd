@@ -1,0 +1,9 @@
+# Transparency 
+
+The eBird review process is not necessarily fully transparent to new users. There is no easy way to see which records of theirs have been treated as Unconfirmed, and no way for them to see the reasons or comments for the review. However, we do ask that you keep your comments professional and relevant!  
+
+Some eBird users watch certain eBird output tools (e.g., Alerts) to see whether their records have been accepted. Other users may watch the point maps to see if their record appears, and flagged records will only appear after being Accepted. Whenever possible we encourage you to correspond honestly with users to explain why their record won’t be shown, but that it will always be accessible in their personal records. We find most users to be receptive to this and understanding of the scientific process, the need for convincing documentation of rarities, and the critical role of data quality review. 
+
+**Should reviewers review their own records?**
+
+When you work as a team with other reviewers we strongly encourage you to have others on the team review your own records. However, when there are no other reviewers in your region, reviewers should review their own records. eBird reviewers are regional experts in judging local records and we trust that this review is objective. Therefore, we also trust you to act objectively upon your own records in your region. Such reviews should focus on the documentation you provide (i.e., using Observer-Experienced is not good form when reviewing your own records).

@@ -1,0 +1,98 @@
+# Observation-level Review Reasons  
+
+A review reason is required for all eBird review decisions, although some older decisions may not have a review decision logged. The review decisions have evolved some over time, so some older review reasons still may appear in History. When these are encountered, it is good practice to rereview the record with a more current review reason since it is always the most recent review reason that is the official, final decision. 
+
+Each review reason is specific to the review decision (Accepted or Unconfirmed). Occasional older records may show reasons that do not match the decision; again, when these are found please re-review the record. 
+
+Note that in the Review Tools we discuss records as Accepted or Unconfirmed, while in eBird (e.g., eBird Alerts) we typically use Confirmed or Unconfirmed. The most commonly used reasons are underlined and marked with an asterisk (\*) below.  
+
+## Review Reasons with ACCEPT 
+
+In Quick Review, all of the Accept options have the option to send a Thank you email, which also can be used to make comments to improve the submission by adding additional notes, metadata, additional photos, or a more specific designation (e.g., change a spuh to a species or a species to a subspecies group). Please use this whenever possible—Thank yous are always appreciated! 
+
+**Documentation-Photo/Video/Audio:** Media should be independently identifiable (i.e., if the species can’t be identified, use another reason). Media need not be in Macaulay Library, but ideally would be archived there for posterity; please encourage the observer to do so.  
+
+-   **Quick review:** This reason prepopulated for Accept on records with media. 
+
+**Documentation-Field Notes:** Written description supports the claimed identification. Please encourage observer to add the description to the Species Details on the checklist so they are permanently archived. If you receive details not in the checklist itself, add these to the Reviewer Notes in the review tools. 
+
+-   **Quick review:** This reason prepopulated for Accept on records with Species Details.  
+
+**Observer-Experienced:** We encourage you to accept based on documentation and recommend the use of this reason only when no better reason applies. However, reliable eBirders who routinely provide responses and consistently document rarities well can reasonably be held to a lower standard for low-level rarities or birds known to be present. For highly significant records, it is important to not use this reason and to hold all observers to a similar standard. 
+
+**Record-Not exceptional:** In general, filters should not flag records like this. Whenever you use this reason, please first consider whether changing the filter and rerunning the data is a better option. However, eBird filters are never perfect and should be seen as the first line of defense to identify unusual records; in cases where they don't do this well, but you don't wish to change the filter, please use this reason. 
+
+-   Examples: 1) date or count barely outside filter limits; 2) record from expected region within your area that may have a more conservative filter setting overall (e.g., species regular at one site year-round, but set to zero year-round to “catch” records away from that site); 3) species status has changed over time; 4) observer used an expected subspecies that you don’t want on your filter, such as House Finch (Common) or Great Egret (Eurasian). 
+
+**Species-Known to be at location:** Useful for known, well-documented rarities or rare birds that occur at one or two known spots but that are considered rarities in the general region covered by the filter. When using this option, please do make sure that one or more similar records are accompanied by documentation, since this reason essentially relies on other documentation to establish confidence in the record. Since Record-Not exceptional also could apply in these cases, please try to use Species-Known to be at location for cases where a specific site gives confidence while Record-Not exceptional is more for cases where a specific region of known occurrence gives confidence in the record. 
+
+-   Examples: 1) eBirder reports a Richard’s Pipit—the only pipit present—that was widely seen and well-photographed by others, but the report itself does not contain the necessary detail; 2) Purple Sandpiper is flagged but occurs regularly at one site with a long jetty. Reports from here during the expected season could be accepted using this reason. 
+
+**BRC-Accepted:** This is to be used only when documentation archived with a Bird Records Committee has resulted in the acceptance of the record. If eBird has independently verifiable documentation, using the appropriate above reason is preferable.In general, we ask that our reviewers follow the decisions of state Bird Records Committees (i.e., records accepted by BRCs should be Accepted in eBird, and vice versa). Please see the [Records Committees](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.87pt1hcyvxn4) section above.  
+
+## Review Reasons with UNCONFIRM 
+
+**Species-Misidentified:** Use only in cases where you are certain that a mistake was made (photo or description, or accounting of events, indicates another species). It is often useful to add a comment to your review decision saying how you know this. Please correspond with the observer to let them know how to fix this to prevent them from making the same mistake again; there is an ideal template for notifying observers of misidentifications.  
+
+-   When sending an email, this reason is prepopulated for Unconfirm on records with media.
+
+**Documentation Inadequate-Species:** We encourage decisions based on documentation provided. Use this when the species is rare and inadequately documented. Importantly, records tagged with this reason resurface for review when the observer bolsters the documentation. 
+
+-   When sending an email, this reason is prepopulated for Unconfirm on records with filter limit = 0 and no media.  
+
+**Documentation Inadequate-Count:** Use this when the species might not need documentation, but the count does. If the observer provides no documentation, or if the documentation is not convincing, please use this reason. Importantly, records tagged using this reason will resurface for review if and when the observer bolsters the documentation. 
+
+-   When sending an email, this reason is prepopulated for Unconfirm on records with filter limit \> 1 and no media. 
+
+**Merlin ID–Documentation Inadequate:** This template is similar to Documentation Inadequate-Species, but is tailored to when you suspect or know an observer is relying on Merlin Sound ID to identify birds and not trying to independently assess their ID. It encourages users to be cautious in identifying birds and provides a link to instructions on how to upload their media from Merlin into eBird.
+
+**Merlin ID–Species Misidentified:** This template is similar to Species-Misidentified, but is tailored to when you suspect or know an observer is relying on Merlin Sound ID to identify birds and not trying to independently assess their ID. It encourages users to be cautious in identifying birds and provides a link to instructions on how to upload their media from Merlin into eBird.
+
+**Media-ID Questioned:** Use this when an observation has a mix of correct and incorrect media. This generally means that the species observation is acceptable (although the count may need adjustment) but an observer has accidentally (drag-and-drop error) or intentionally (identification error) added incorrect photos to a record. Please advise the observer of the error; if they use Change Species to correct the images, the record will be set to Rereview. However, if they simply delete the incorrect images the record may not get rereviewed unless you or the observer send the link. This reason only available for photo records in Defer and Unconfirm. This reason is also used by [Media Reviewers](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.iltcad6i52ha) to flag a record for review; these always set the status to [Rereview](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.quoglvfb093s). Only an eBird Reviewer can make a final decision using this reason. Because there are different workflows to apply this reason (Flag as Misidentified on a checklist or Macaulay image vs. a review in Review Tools), and a different end result (rereview vs. a final decision), this should not create confusion. 
+
+**Observer-Error:** This is a “catch-all” for any additional scenarios not covered by the other review reasons. This should be rarely used, most often when the checklist has multiple issues that indicate systematic problems with the birds reported (but not checklist-level issues). This review reason is also appropriate to use when users report one or two captive birds on their checklist (e.g., from a zoo), but we recommend using the Checklist-level review reason Checklist-Captive species in cases where large or unknowable numbers of captive birds are included. Records decided using this reason will NOT resurface when the observer adds documentation. 
+
+**Species-Taxonomic Issue:** This is to be used specifically for cases where the observer has probably correctly identified the bird but is using an outdated or erroneous name or older taxonomy. **Please be sure only to use this in such instances!** Please always enter the correct name (English or Scientific name) in the reviewer comments and please expect that we may display these comments publicly or change these records for the observer in the future.  
+
+-   Examples: These types of errors can occur as: 1) typos (such as Black-billed Cuckoo-Dove instead of Black-billed Cuckoo; we all make typos!), 2) nomenclatural confusion (such as using White-throated Robin Irania irania instead of White-throated Thrush Turdus assimilis—understandable because both names have been used for the Turdus and this person may have a field guide that uses the former name); 3) genuine taxonomic confusion, such as using Common Snipe Gallinago gallinago for New World snipe sightings instead of Wilson’s Snipe Gallinago delicata, since the latter species was known by the former names prior to the split. Since scientific nomenclature will be retained by one member of a recently-split species, this is especially confusing for those that use primarily scientific names.  
+
+**BRC-Rejected:** This can be used when a record has been reviewed and decided upon by the Bird Records Committee. This reason is preferable to a Documentation-Inadequate decision because it means that a formal submission assessed by a group also did not achieve acceptance. See Record-Accepted by BRC above. See also the [Records Committees](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit?tab=t.0#heading=h.87pt1hcyvxn4) section.  
+
+Below is the full suite of review reasons and where they are found. Those with asterisks (\*) are in the traditional review tools only (i.e., not available in Quick Review) and those with a dagger (†) are applied automatically and cannot be found in drop-down lists. 
+
+|  |  |  |
+|----|----|----|
+| **ACCEPT**  | **UNCONFIRM**  | **OTHER**  |
+| Documentation-Photo/Video/Audio  | Species-Misidentified  | †Species-Flagged by filter  |
+| Documentation-Field Notes  | Documentation-Inadequate  | †Species-Identification Changed  |
+| Observer-Experienced  | Documentation Inadequate-Species  | †Email-Thank You  |
+| Record-Not exceptional  | Documentation Inadequate-Count  | †Email-Documentation Requested  |
+| Species-Known to be at location  | Media-ID questioned  |   |
+| BRC-Accepted  | Observer-Error  |   |
+|   | Species-Taxonomic Issue  |   |
+|   | BRC-Rejected  |   |
+|   | \*Species-Rereview requested  |   |
+|   |  |   |
+|   | \*Species-Sensitive Species  |   |
+
+## Other Review Reasons 
+
+**†Email-Documentation Requested:** This is automatically set when you click the mail icon and send a request for information from Unconfirm or Defer; although specific email templates are loaded from Quick Review, these are indicated by the companion review reason and not further specified in the email entry. For example, if I mark a record Unconfirmed, Species-Taxonomic Issue, and send the email from Quick Review there will be one History line for Deferred, Email-Documentation Requested and a second entry for Unconfirmed, Species-Taxonomic Issue that is applied immediately afterwards. If the same email is sent using the same reason from Deferred then the Unconfirmed, Species-Taxonomic issue entry is applied only after 14-days have elapsed without action by the observer. 
+
+**Documentation Inadequate:** In the current review process, this reason appears less commonly than it did in the past.It was one of the more common reasons and was used for many years before the process made a distinction between records that had inadequate documentation for the species or for the count. Now, this reason is used in the traditional review tools (not available in Quick Review) and can be set only by sending an email for more information. This process uses our default email template and asks for more information to document the sighting. Once the email is sent, the record is set to Deferred with reason Documentation Inadequate. If 14 days pass without the reviewer revisiting the record to make a final decision, then the record is set to Unconfirmed with reason Documentation Inadequate. If, after sending the email, you are confident of a decision please go ahead and make that final decision at that time (which will apply a final decision instead of treating the record as Deferred). If photos are added any Unconfirmed record will reappear with Rereview and if documentation is added to a record marked Documentation Inadequate (including the two more specific reasons above) then the record will also appear for Rereview. 
+
+**\*Species**-**Sensitive Species:** To be used with Unconfirmed. Use this only in rare, special cases where the sensitivity to disturbance, capture, or other harm means that the location should be suppressed from eBird. Rarely, this can be used to hide a sighting on private property that is garnering inappropriate attention from birders. Using the correct code is important so that we can change how these records are handled later. See also [Sensitive Species](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.1yec3ox4504e) above to understand what species are automatically treated as Sensitive in eBird. Ideally, these records would be made public after the immediate threat has passed (i.e., if the species is known to have left the area). 
+
+**\*Species-Rereview requested:** This review reason can be set only by those with permissions to review in a given area and sets a review status as [Rereview](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.quoglvfb093s). It is a system to encourage reviewers to take a second look at a record and we encourage reviewers to always check the History of a record treated this way. Feel free to use this to flag records for yourself or other reviewers on your team to look at. 
+
+## Retired Review Reasons 
+
+Occasionally review reasons used in older iterations of the Review Tools may appear in History. We recommend re-reviewing these records to apply an appropriate modern review reason. Get in touch with eBird Central if you need help understanding any of these older reasons. The more recently retired reasons below (last used in fall 2019) are most likely to be found in the History of records: 
+
+**Documentation-Measured:** Previously used with Accept for records accepted based on in-hand morphometrics; instead of this reason, please use Documentation-Field Notes and add relevant comments in Notes. 
+
+**Observer-Experience unknown:** Previously used with Unconfirmed for records where observer experience seemed to be an issue. Please review based on presence or absence of documentation, not perceptions about observer skill.  
+
+**Record-In Review by BRC:** Previously used with Accepted or Unconfirmed. We no longer wish for reviewers to await BRC decisions. Please make a preliminary judgment based on your assessment of the evidence; decisions can always be revisited by finding the records in Search Observations. 
+
+**Species-Introduced/Exotic:** This reason was removed in summer 2022 as our Exotic Policy was put into place. When this reason was removed, we also reassessed all records to apply a new review reason (generally, Species-Known to be at location since reviewers should have approved the species identification—in accord with our guidelines—prior to using this review reason). Reviewers may still see this review reason in History, but it is no longer considered a valid review reason. In almost all cases, the observation will now include an Exotic Code.

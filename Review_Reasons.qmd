@@ -1,0 +1,5 @@
+Review reasons are an incredibly important part of the eBird review process. Since any review decision may be reconsidered in the future, applying an accurate review reason helps future researchers to understand why a record was treated in a certain way. Furthermore, there is a fair amount of eBird code that does or could in the future apply certain logic to the records. For example, records marked Documentation Inadequate currently reappear for review if documentation is augmented, and records marked Species-Taxonomic Issue are periodically updated by eBird staff. 
+
+The below review reasons are broken into two categories: Checklist-level review reasons, which are accessible from the Submission page, and Observation-level review reasons, which are accessible only when the Checklist is Public and can be applied from the Review Queue, Checklist page, History page, as well as Quick Review. 
+
+It is very important that reviewers understand the review reasons and use them correctly.

@@ -1,0 +1,13 @@
+# Your Filter Assignment 
+
+You can view the eBird filters for your region by clicking the Filters tab at the top of the Review Tools page or by accessing this link:[ https://ebird.org/admin/filterList.htm](https://ebird.org/admin/filterList.htm). Any filter in the first page, Your Filters, can be edited by you. Click the All Filters button at the top-right of the page to scroll or search the entire global list of filters (you cannot edit these). The column headers can be used to sort the list of filters and the Find a Filter box allows you to quickly search for a specific filter. 
+
+Permissions to edit filters are set up separately in our system. In general, all reviewers should have access to edit the filters in their assigned regions, but some teams divide responsibilities in different ways (e.g., one person reviewing, the other editing filters) so this is not always true.  
+
+Get in touch with eBird Central if you need edit access for any specific filter (please send the link to that filter). 
+
+**What if I can’t see any filters?**
+
+Please also check the Filters tab at the top right of the page; you should see the filters that you have permissions to edit in your review area. If you do not see the right filters there, please let us know. It is a separate process to set these up, so there could be an error in either place. 
+
+If you still do not see any records, please contact us, as there may have been an error in setting up your Review Assignment.

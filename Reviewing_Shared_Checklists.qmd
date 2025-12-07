@@ -1,0 +1,3 @@
+# Reviewing Shared Checklists 
+
+If you review a checklist and it is subsequently shared with other observers, those review decisions will carry over to the new observers as well. However, if those observers then adjust the species count or location and that change exceeds the filter, you will need to re-review that record. If an observer shares the checklist before you review it, then you must review each copy of the list independently.

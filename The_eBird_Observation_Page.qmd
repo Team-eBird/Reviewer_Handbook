@@ -1,0 +1,35 @@
+## The eBird Observation Page 
+
+In some cases, you may need more details than are provided in the Review Queue to Accept or Unconfirm an observation. Additional information for the entire checklist can be found by clicking the link (Submission ID) in the Submission column (see [The eBird Checklist Page](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.m9dxnj55lxvo) below).  
+
+Additional observation-specific information can be found by clicking the History link on the right side of each item in the list or, if the observation includes documentation, by clicking any icon in the Note column. The [Quick Review page](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.a42668czrsh9) for that record is accessible by clicking Quick Review next to the View Filter link and above the Species and Observation details; this can be useful to access specific email templates (e.g., Species-Misidentified, Documentation Inadequate-Count, etc.). **For Rereview records, you should always check History**. 
+
+Try clicking History from the Review Queue, which will take you to an Observation page like this: 
+
+![](images/paste-5.png){fig-align="center"}
+
+**Additional notes about the Observation Page**
+
+**Count**: Counts of zero are allowed, but strongly discouraged. Reporting zero in eBird does cause some system bugs and is almost never needed: submission of a complete checklist (i.e., reporting all species identified) assumes that anything not reported had a count of zero.  
+
+**Checklist Comments:** eBirders can opt to show or hide these in the public checklist view, but these are always visible to reviewers in the Review Tools (when present). It is often a good idea to check these before Unconfirming a record since they may contain information on other observers, whether a photo was taken, and whether the observer was aware of the rarity of the sighting. 
+
+**Review History** may include line entries for review actions such as: 
+
+-   entries for when a record is initially flagged by a filter 
+
+<!-- -->
+
+-   any actions that remove or add a record to the Review Queue 
+
+<!-- -->
+
+-   certain observer edits that have a bearing on review Status 
+
+<!-- -->
+
+-   any Review decision made by a reviewer. 
+
+Accepted records that are Unreviewed typically show no History since they have never been flagged by a filter.  
+
+Reviewing a record from the Observation Page proceeds in the same sequence as [Reviewing Observations from the Review Queue](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.nv3x1bt8ygan) using the green bar above the Review History.

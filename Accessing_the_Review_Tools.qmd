@@ -1,0 +1,11 @@
+# Accessing the Review Tools 
+
+Part I of this guide addresses the basics of logging in and viewing your records and reviewing each record from your queue. If you are reading this for the first time, please log into the Review Tools for your region and try to follow along with examples. 
+
+**What browser should I use?**
+
+Review Tools are designed to work best in Safari, Chrome, and Firefox browsers (latter two are free downloads). We strongly recommend using one of these browsers; you may see issues when using other browsers. 
+
+**How do I log in?**
+
+Go to this URL:<https://review.ebird.org/admin/>. If prompted to log in, enter your eBird username and password. If you ever see an unexpected “Congratulations! You have no more records to review” message, you may just need to log out and log back in.

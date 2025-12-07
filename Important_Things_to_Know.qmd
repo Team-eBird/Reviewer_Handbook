@@ -1,0 +1,31 @@
+# Important Terms to Know 
+
+The following terms appear throughout the Review Tools and this handbook. If you are reading this for the first time, please familiarize yourself with the following definitions (commonly occurring synonyms are provided in parentheses). 
+
+**Species (Taxon):** a unique taxon from the[eBird taxonomy](https://ebird.org/science/the-ebird-taxonomy) including species as well as slashes, spuhs, subspecies groups, domestics, intergrades, forms, and hybrids. Species and taxon are used more or less interchangeably in this document. Although referring to taxon is technically correct, we often use the term species for examples below, even though non-species taxa could equally be involved in any eBird observation.
+
+**Record (Observation)**: a unique report of a species and its count; the most elemental piece of data in eBird.  
+
+**Submission (Checklist)**: an aggregation of one or multiple records along with metadata (e.g., date/time, observer, location) related to a unique data collection event. While checklists may contain multiple observations, each observation is associated with only one checklist.  
+
+**Observer (eBirder, User)**: people who submit records, via checklists, to eBird. Throughout this document we distinguish users (the individuals creating records) from reviewers (i.e., regional editors; the individuals reviewing records).  
+
+Each observer in eBird is tied to an email address and a name. Some individuals may have multiple eBird accounts, and other accounts may be “group accounts” shared among multiple observers. While almost all observers display their real name, some use an alias. It is also possible to set your public display name as “Anonymous eBirder” via the eBird account settings. When observers opt to appear anonymously, we still show their real name in the Review Tools, but you’ll see Anonymous eBirder if you click over to view the checklist page in eBird. However, we ask that reviewers respect an observer’s decision to remain anonymous and not to share their first and last name with others.  
+
+Some users may opt to leave their first and last name blank, which is not preferred. As a reviewer, feel free to contact these users by email to ask them to enter their real name and then to set their Preferences to Anonymous eBirder or their real name as they wish. 
+
+**Location**: can be thought of as the point on the map where the data collection event occurred, but is more specifically defined by a Location identifier (e.g., L2141044; these are used in the URLs for hotspots, such as <https://ebird.org/hotspot/L2141044>), each of which has a unique latitude and longitude for map display as well as other attributes like country, state/province, county, whether or not it is a hotspot, and sometimes other attributes (whether it falls within a KBA/IBA, National Wildlife Refuge, etc.)  
+
+**Filter**: an automated data-verification procedure that checks each record against a predefined maximum count of that species for that date. We consider a filter to be the full list of possible species for a given region (could be country, state, county, or a custom region), with each species having its own **Filter Limit**. For more on how filters are set and used, see the [Filters](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.63twvhl9ql2) section below.  
+
+**Filter Limits**: the specific count values within a date range for a species within the context of a filter. Any given filter is thus made up of filter limits for all species on the filter. 
+
+**Flagged**: when a record exceeds a filter limit, it is automatically labeled (“flagged”) to indicate it needs consideration by a regional editor. The Review Tools are designed to help regional editors identify, examine, and assign final decisions to flagged records or checklists. Reviewers can also flag observations manually from eBird checklists in their review region. 
+
+**Polygon:** The region to which a filter is attached, such that all reports within the polygon will use the specific filter. A polygon can be a geopolitical region (country, state, county) or a custom polygon (Arbitrary Polygon) enabled by eBird Central. Note that one filter can be active for multiple polygons but that each polygon can only be connected to one filter.
+
+**Review Decision, Status, and Reason**: three separate designations that govern how and where records are displayed in the Review Tools and on public eBird output. Some of these designations are assigned automatically based on filters or reviewer actions, while others are manually specified by reviewers. See [Review Decision, Status, and Reason](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.ppl46kjchoim) below for more information.  
+
+**Media:** photographs, audio recordings, or video files. Observers should always add media[directly to eBird checklists](https://support.ebird.org/support/solutions/articles/48000825713-add-photos-and-sounds) to ensure they are archived with Macaulay Library. eBird and the Macaulay Library are tightly integrated and review decisions on eBird observations or checklists also affect media in the Macaulay Library. 
+
+**Documentation:** any evidence added by an observer to support their record. Documentation consists of notes in the Species Details box and/or uploaded media files. Photos of sketches or field notes can also be considered as documentation but ideally should be tagged Field notes/sketch which a tag that is accessible from Manage Media. External archives, such as BRC files, photo websites (e.g., Flickr), or other web-based initiatives (e.g., iNaturalist) can also be linked to for documentation, but none of these are guaranteed to be permanent, so the best practice is to ensure that[all important documentation](https://support.ebird.org/support/solutions/articles/48000803130-how-to-document-your-sightings) is stored within the checklist.

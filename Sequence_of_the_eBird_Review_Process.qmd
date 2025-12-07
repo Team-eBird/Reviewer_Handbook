@@ -1,0 +1,17 @@
+# Sequence of the eBird Review process 
+
+Having a fundamental understanding of the Review Queue and terms, you are now ready to review records. The majority of records are very easy to review, and simply require a quick look at the date, location, count, and documentation for the species. However, we hope that during this process reviewers are mentally checking three main factors in sequence:  
+
+1.  **Is the checklist acceptable?** Your first step in any review should be to consider whether the checklist is suitable for public display in eBird. In almost all cases the answer is yes, but if it is not (i.e., location is not accurately plotted, date is inaccurate or spans multiple days, is an obvious life list entry, or is otherwise unsuitable for eBird’s scientific database) then the entire checklist should be reviewed: see [Checklist-level review](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.5wa4o7u0eoe6) below. The investigation of checklist-level issues is important because a problematic checklist likely will also include additional Accepted records, but these should not be used for science or public output if the entire checklist is problematic.  \
+     
+
+<!-- -->
+
+2.  **Is the observation acceptable?** Review and assessment of the species identity and count is the core of the eBird review process. Remember that the filters are not perfect and may flag expected species (or fail to catch unusual ones). Every review should focus on the documentation provided but should also consider the record in context. The nuances of this decision are discussed at length below. \
+     
+
+<!-- -->
+
+3.  **Are all media in the checklist correct?** All photos, audio, and video from Public checklists and Accepted observations are used in media galleries and other products in the Macaulay Library. For this reason, it is important that reviewers also help to address errors with media. It is not uncommon for birders to make mistakes uploading media. These cases are discussed in detail in the [Media review](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.iltcad6i52ha) section. 
+
+If all three elements of an observation are OK, in the reviewer’s opinion, the report can be Accepted. If any has a problem, the issue should be addressed as discussed in the sections below: [Checklist-level review](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.5wa4o7u0eoe6), [Observation review](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.saqv0zfpura2), or [Media review](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.iltcad6i52ha). These are not listed in this sequence below, since Observation review is by far the most common scenario.

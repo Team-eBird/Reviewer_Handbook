@@ -1,0 +1,72 @@
+# Reviewer Essentials 
+
+Thanks for being a part of the eBird review team! Here’s everything you should need to get started—the rest of the document outlines our review tools and best practices in more detail.  
+
+**Reviewer agreement.** Cornell University requires all volunteers to sign our [Reviewer Agreement](https://cornell.ca1.qualtrics.com/jfe/form/SV_b7KtolgFAhvecg5). This includes key information on roles and sets expectations. Please sign! You can review eBird’s volunteer roles and expectations [here](https://docs.google.com/document/d/1Hyl5puqky4-O2D6-DpseqcDZ2myhN4pKj2nz1rfxdjw/edit#heading=h.k6aqtfo3lbsh).
+
+**You are the face of eBird.** You will often be the primary eBird contact point for eBirders in your region. Please maintain polite and helpful discourse with eBirders you reach out to. Most are genuinely interested in improving their checklists and documenting their sightings and are grateful to have an expert like you to correspond with. We also expect polite discourse from eBirders—please reach out to eBird Central if there’s ever conflict. 
+
+**Where do I log in?** <https://review.ebird.org/admin/>. Use your eBird username and password. Bookmark this link but note that [ebird.org/admin](http://ebird.org/admin) also redirects here and is easier to remember. 
+
+**How can I be onboarded?** The best way to learn how to review eBird records is to have another reviewer in your area introduce you to the process, to their favorite tips and tricks, and to discuss how their regional team works. Second, we do have a set of powerpoint presentations that discuss the important elements of eBird review, including [Review Philosophy](https://docs.google.com/presentation/d/1ZnHqXdvBYNlJeZfZX7uJNaanO7pi_xBiXiHzBmtmGKQ/edit?slide=id.g33798df77ea_0_0#slide=id.g33798df77ea_0_0), [Observation review](https://docs.google.com/presentation/d/1-N6_mMReQj2mfJDApgf39W6qUz5h6FHPowjQ4yYPcik/edit?usp=drive_link), [Filters](https://docs.google.com/presentation/d/1lznLMf1NKHEe1noMuVlNJUjizc0oaDT9WdmGDcZDIiw/edit?slide=id.g337989e58b5_0_0#slide=id.g337989e58b5_0_0), [Checklist review](https://docs.google.com/presentation/d/1Z5mgV80v8_AU0OraBKUe6vjruVxp-qvDWYO7bxKGFMI/edit?usp=drive_link), and [Other topics (including Search, Exotics, and Media review)](https://docs.google.com/presentation/d/1C5r7MLNH3fgxUQIRHrvseIPScGmwLtD4scYVQXKlKys/edit?slide=id.g33797f0e5e1_0_0#slide=id.g33797f0e5e1_0_0). Reviewing these short slide decks should be enough to get started and to understand the most important aspects of review. Finally, this document contains full detail on everything you need to know. We recommend reading—or at least skimming—this document. Keep it on hand and bookmark this link, since any question you have can be looked up here.
+
+**How do I access records for review?** There are two ways to access records for review: 
+
+-   **Review Tools:** The [Review Tools](https://review.ebird.org/admin/) are the primary interface to review records.  
+
+<!-- -->
+
+-   **eBird checklists:** You can also access Review Tools by going to any checklist for your review area, clicking Review next to a sighting, or clicking the Review button (the flag icon) at the top right. 
+
+**How do I review a record?** There are two primary methods for reviewing records: 
+
+**First method:** 
+
+1.  Click on the email icon next to an observer's name in the queue. This action will prompt a modal window to open for making a review decision. 
+
+2.  Choose one of the options presented at the bottom of the modal, typically either Accept or Unconfirm. 
+
+    1.  **Accept records you are confident are correct.**
+
+    2.  **Unconfirm records for which you want to ask more details or you are confident are wrong**
+
+    3.  **Defer records only in specific situations where you want to ask the observer for more details, but the observation is within the last 7 days and you want to keep the record visible on alerts.**
+
+3.  Decide whether to send an email, which will automatically populate with an appropriate customizable template. We highly recommend sending an email whenever possible, especially when Unconfirming. Sending an email can also be a thoughtful gesture when Accepting a record. 
+
+**Second method (bulk reviewing):** 
+
+1.  Alternatively, review records directly from the queue by checking the box(es) on the left next to the desired record(s). 
+
+2.  Select a Review Decision and Review Reason from the dropdowns available in the green bar at the top. Optionally, you can add notes. 
+
+3.  Click on Change to confirm your decision. 
+
+Note: This second method does not support emailing observers but offers a convenient way to bulk review multiple records. 
+
+Please also consider whether the checklist details are OK (location accurate, reported from single date, etc.). If not, you can apply a tag to the entire checklist to indicate that a problem was found. 
+
+**How do I identify a problem with the entire checklist?** When on the checklist review page, you have the option to select a reason and mark an entire checklist as Not Public. This is recommended in cases of a location issue (badly misplotted), very long lists that cover multiple habitats (checklists that are 8km or less should never be considered problematic for distance), list-building lists, imprecise dates, or other lists. This adds a public message at the top of the list and removes all observations from public view until the issues are resolved. We ask that you always consider checklist-level review before reviewing observations.
+
+**Where do I change the data quality filter for my region?** The data quality filter controls what gets flagged for your region. To see the filter limits for a species, simply click the Filter link on the right-hand side of any record. This will open the filter that flagged the record. If your assignment includes filter editing, you can adjust the ‘filter limits’ by date for each species. Once you adjust these, any NEW records submitted below this threshold will not be flagged for review; hitting Run on the filter applies these to older records that do not have a prior review decision. You can also click the Filters tab on the upper right to open and review or edit the entire filter for your region. You can also add new taxa here (please see [eBird Filters](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit?tab=t.0#heading=h.63twvhl9ql2) for more information).
+
+**Review as a team when you can.** Most reviewers fill several roles, such as Observation Reviewer, Checklist-level reviewer, and Filter Editor, while others (particularly hotspot editors) may focus on a specific area. **What matters most is clear coordination.** Strong teams often assign responsibilities regionally (e.g., one, two or several people reviewing for specific subregion, where they also manage the filter and manage hotspots) with a Review Coordinator who manages who is doing what, helps ensure the team is operating at its best, and helps ensure that revie wis happening regularly and that data quality at the broad level is strong. If your region lacks coverage for a key function, such as a filter editor, hotspot editor, Review Coordinator, please get in touch. We’re here to help you think about whether adding another reviewer or redistributing responsibilities will strengthen your team.
+
+An ideal review teams consists of:\
+\
+
+**Review Coordinators** - oversee review in a given region, serving as primary liaison between eBird Central and review teams
+
+**eBird Mentors** - assist review teams to train, educate, assist, and answer questions from the user community, especially for users still learning eBird standards and protocols.
+
+**eBird Observation Reviewers** - primarily responsible for eBird data quality in a given region, including, but not limited to, acting upon records flagged by eBird filters. Review of media attached to observations is also included.
+
+**eBird Checklist Reviewers** - primarily responsible for tagging eBird Checklists as Public or Not Public, in accordance with eBird standards. 
+
+**eBird Filter Editors** - primarily responsible for creating, managing, and maintaining the regional eBird filters that determine which species appear for data entry, which observations require documentation from observers, and which observations are automatically flagged for review. 
+
+**eBird Hotspot Editors** - primarily responsible for the creation, naming, and management of eBird Hotspots in a region in compliance with eBird guidelines.
+
+For more details on the responsibilities and expectations of each of these roles, please see: [eBird Volunteer Roles and Expectations](https://docs.google.com/document/d/1Hyl5puqky4-O2D6-DpseqcDZ2myhN4pKj2nz1rfxdjw/edit#heading=h.k6aqtfo3lbsh). Most reviewers serve as Observation Reviewers and Checklist Reviewers, and many also manage their regional filter as a Filter Editor as well. Many observation reviewers also assist with hotspots in their region as a Hotspot Reviewer, but this role can easily be assigned to others to grow the team and help share the responsibilities more broadly.
+
+Thank you for everything that you do to make eBird’s continued success possible.

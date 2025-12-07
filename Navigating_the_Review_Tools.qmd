@@ -1,0 +1,31 @@
+# Navigating the Review Tools 
+
+When you log in you are automatically taken to the Review Observations page. Several tabs are found on the top of the page, each corresponding to a different tool discussed in greater detail below: 
+
+![](images/paste-1.png){fig-align="center"}
+
+## The Review Queue 
+
+Once logged in, you’ll immediately see your Review Queue, which is the complete list of records awaiting review. See the section [What records appear in the Review Queue?](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.rxmsdiipguvz) to understand what records appear here and how.
+
+![](images/paste-2.png){fig-align="center"}
+
+## Sorting records  
+
+By default, records on your review list are sorted by observation date, with the most recent records first. You can change the sort order by clicking a column heading, such as Location or User. Most sort options are self-explanatory, but a few require extra explanation:  
+
+-   **Species:** You can order species taxonomically (Tax) or by category (Cat). Sorting by category (Cat) clusters by taxonomic category (species, subspecies group, spuh, slash, hybrid, intergrade, form, domestic) and then sorts taxonomically within each cluster. This can be a useful way to quickly process subspecies, slashes, and spuhs, which often are valid submissions but may not be regular options on the filter.  
+
+<!-- -->
+
+-   **Status:** You might also wish to sort based on Status. This is especially useful to look for records that are Deferred or Rereview, since these require special consideration. See [Review Decision, Status, and Reason](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.ppl46kjchoim) for more on Status.  
+
+<!-- -->
+
+-   **Submission:** Clicking Submission sorts by the checklist submission identifier, which clusters all observations within a single checklist together. When this column is sorted in ascending order, the oldest checklists (by submission date) are at the top; when descending, the most recent are at the top. 
+
+## Filtering your Review Queue  
+
+Click Filter list (near the top-left of the page) to subset the records in your Review Queue. Select or type a value by which to filter the records. Common ways to filter records are by a specific date range to work only on recent records, or by species to focus on a well-known rarity with many flagged records. 
+
+It is important to note that these are filters, so several of the drop-down lists populate only with values that are in the Review queue (and the list of observer names cannot be longer than 1000 observers). If a certain species has no records in the Review queue, it will not appear in the list of available options. For a search of all records of the species, please use the Search tab.

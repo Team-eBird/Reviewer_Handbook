@@ -1,0 +1,39 @@
+# Known Bugs 
+
+**Inconsistent Status**
+
+On rare occasions, the Status will be different between the Review Queue, Submission view (Checklist view), and Observation view; the Submission view tends to be inaccurate. In these cases, the best resolution is to re-evaluate the record, which will bring everything in sync.  
+
+**Zero counts**
+
+Observations with a count of 0 (zero) can cause several issues in the review tools. To resolve them, simply accept the record (a count of zero can always be Accepted):
+
+1\) counts of zero may break the History view 
+
+2\) counts of zero will break Quick Review, so that once you get to that Observation in Quick Review you will see an error and cannot advance further; please review these directly from the main review queue and after you do so, Quick Review should work normally
+
+3\) very (very) rarely, an observation with a count of zero may appear publicly as a count of 1 and cannot be reviewed. If this happens, please contact eBird Central.
+
+**Photos**
+
+Photos do not always load in the main queue, and sometimes not in Quick Review. If this happens, the best way to view any photos is by looking at the checklist view in ebird.org. 
+
+**Bug reports channel**
+
+A great way to report any issues you come across is by using the #bug-reports channel in Reviewer Slack. If possible, please note the browser you are using and include screenshots of any unexpected behavior. If you’re reporting an issue about eBird Mobile, please include the eBird Mobile app version and device/software version.
+
+## Additional Documents
+
+These three additional documents are also important and useful for eBird reviewers.  
+
+**Falsification of documentation and how to detect it** 
+
+This PDF document is not public. Please contact us directly to receive this document, which can help in cases of suspected fraud. It provides guidance on how to detect fraudulent photos, audio recordings etc. and gives specific examples of where and when this has occurred and how it was detected. 
+
+**Hotspot Management in eBird** 
+
+eBird has a separate team managing eBird hotspots; eBird Reviewers are invited to help with this. The hotspot management process is described in a separate document, which is distributed to all hotspot reviewers. This includes both the review and acceptance of new hotspots and management of existing hotspots. This is available here:[ https://tinyurl.com/eBirdReview](https://tinyurl.com/eBirdReview)  
+
+**Filter taxa recommendations** (US and Canada)
+
+A set of .xlsx documents provide recommendations for non-species taxa to include on filters in the US and Canada and as continental or nine simplified regional versions. This document also provides official Introduced/Exotic species recommendations for the US and Canada. US and Canada reviewers should strive to conform with these guidelines on your filters. Reviewers outside of those countries may refer to it for guidance. We would welcome volunteers willing to compile similar documents for other continents or regions. This is also available here:[ https://tinyurl.com/eBirdReview](https://tinyurl.com/eBirdReview)
