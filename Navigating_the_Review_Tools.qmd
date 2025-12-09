@@ -6,7 +6,7 @@ When you log in you are automatically taken to the Review Observations page. Sev
 
 ## The Review Queue 
 
-Once logged in, you’ll immediately see your Review Queue, which is the complete list of records awaiting review. See the section [What records appear in the Review Queue?](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.rxmsdiipguvz) to understand what records appear here and how.
+Once logged in, you’ll immediately see your Review Queue, which is the complete list of records awaiting review. See the section [What records appear in the Review Queue?](What_Records_Appear_in_the_Review_Queue.qmd) to understand what records appear here and how.
 
 ![](images/paste-2.png){fig-align="center"}
 
@@ -18,7 +18,7 @@ By default, records on your review list are sorted by observation date, with the
 
 <!-- -->
 
--   **Status:** You might also wish to sort based on Status. This is especially useful to look for records that are Deferred or Rereview, since these require special consideration. See [Review Decision, Status, and Reason](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.ppl46kjchoim) for more on Status.  
+-   **Status:** You might also wish to sort based on Status. This is especially useful to look for records that are Deferred or Rereview, since these require special consideration. See [Review Decision, Status, and Reason](Review_Decision_Status_and_Reason.qmd) for more on Status.  
 
 <!-- -->
 

@@ -12,7 +12,7 @@ You can identify mobile submissions by viewing the eBird checklist online, which
 
 ## Submissions from bulk data uploads 
 
-Although most submissions to eBird come eBird Mobile or the online web application, it is possible to upload hundreds or even thousands of records via specially formatted spreadsheets. Because **data entry errors in bulk uploads are easily missed**, it is particularly important that you understand the[ bulk upload process](https://support.ebird.org/en/support/solutions/articles/48000907878-upload-spreadsheet-data-to-ebird) and make observers aware of records that seem questionable. 
+Although most submissions to eBird come eBird Mobile or the online web application, it is possible to upload hundreds or even thousands of records via specially formatted spreadsheets. Because **data entry errors in bulk uploads are easily missed**, it is particularly important that you understand the [bulk upload process](https://support.ebird.org/en/support/solutions/articles/48000907878-upload-spreadsheet-data-to-ebird) and make observers aware of records that seem questionable. 
 
 Bulk data uploads are rare, but when they occur you are sure to notice large pulses of historical data appearing in the queue. This can create difficulties for reviewers: in addition to the high volume of new review records, you may find that many of these records have broad-scale location information, estimated dates, imprecise counts, and no effort information. On rare occasion, a formatting error can cause more serious data-quality issues.  
 

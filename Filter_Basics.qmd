@@ -10,7 +10,7 @@
 
 -   Rare species - every species with a filter set to zero for that date.  
 
-When an observer initiates a checklist on eBird Mobile or the eBird website, the checklist will automatically display the expected species based on filter values for that location and date. Rare species are by default not displayed, but observers can access them by entering common names or quick entry codes into the species box. Any species without a filter must be[manually added](https://support.ebird.org/support/solutions/articles/48000948757-ebird-faqs#anchoraddspecies) to the list by the observer.  
+When an observer initiates a checklist on eBird Mobile or the eBird website, the checklist will automatically display the expected species based on filter values for that location and date. Rare species are by default not displayed, but observers can access them by entering common names or quick entry codes into the species box. Any species without a filter must be [manually added](https://support.ebird.org/support/solutions/articles/48000948757-ebird-faqs#anchoraddspecies) to the list by the observer.  
 
 **Filters Should:**
 
@@ -96,7 +96,7 @@ To create a new filter please follow these steps:
 
 4.  Edit the species list and values to match the region you are making the filter for. Bar charts are a useful tool for this.
 
-5.  Once complete, send us the following. You can either email John ([jfg228\@cornell.edu)](mailto:jfg228@cornell.edu), Jenna ([jenna.curtis\@cornell.edu)](mailto:jenna.curtis@cornell.edu) and Marshall ([mji26\@cornell.edu), or post in #review-assignments in Slack.](mailto:mji26@cornell.edu)
+5.  Once complete, send us the following. You can either email John ([jfg228\@cornell.edu](mailto:jfg228@cornell.edu)), Jenna ([jenna.curtis\@cornell.edu](mailto:jenna.curtis@cornell.edu) and Marshall ([mji26\@cornell.edu),](mailto:mji26@cornell.edu) or post in #review-assignments in Slack.
 
     1.  Filter name, e.g., California--Los Angeles County--Coast
 
@@ -104,9 +104,9 @@ To create a new filter please follow these steps:
 
     3.  Region code(s) for which it is to be activated. For most regions, you can get this from the URL of the eBird Explore page, e.g., IN-KL-ER for <https://ebird.org/region/IN-KL-ER>
 
-        1.  [For pelagic filters, which use arbitrary polygons, please use these instructions:](https://ebird.org/region/IN-KL-ER)[Pelagic Filters in eBird](https://docs.google.com/document/d/1-awQ4B9jH3h8QoV_EVD1SutPgmhm7k1B0i-YugZGU2s/edit)
+        1.  For pelagic filters, which use arbitrary polygons, please use these instructions: [Pelagic Filters in eBird](https://docs.google.com/document/d/1-awQ4B9jH3h8QoV_EVD1SutPgmhm7k1B0i-YugZGU2s/edit)
 
-    4.  [The UserID of any reviewers who need editing access.](https://ebird.org/region/IN-KL-ER)
+    4.  The UserID of any reviewers who need editing access.
 
     5.  eBird Central will activate the filter and make sure you can edit it.
 

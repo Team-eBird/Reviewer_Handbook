@@ -23,8 +23,8 @@ website:
         text: Contacting Other Reviewers and eBird Central
       - section: "Part 1: How to use the Review Tools"
         contents: 
-          - href: Important_Things_to_Know.qmd
-            text: Important Things to Know
+          - href: Important_Terms_to_Know.qmd
+            text: Important Terms to Know
           - href: Accessing_the_Review_Tools.qmd
             text: Accessing the Review Tools
           - href: Your_Review_Assignment.qmd

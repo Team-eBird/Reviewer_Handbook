@@ -1,6 +1,6 @@
 # Review Decisions and Reason email templates 
 
-The review reasons available in Quick Review and by clicking on an email icon next to a record in the queue are a streamlined list relevant for records with documentation. Please see [Appendix A](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.sglyuhchgvet) for a full description of review reasons.  
+The review reasons available in Quick Review and by clicking on an email icon next to a record in the queue are a streamlined list relevant for records with documentation. Please see [Appendix A](Review_Reasons.qmd) for a full description of review reasons.  
 
 Each review reason includes a custom email template and all have an option to a custom text block to provide the observer with more information. We recommend reading these emails before sending; opening the email will display it, but it won’t be sent until you hit Send. **We strongly recommend adding a short note in the box provided to personalize your emails**. Setting these off with boldface and italics helps make sure the observer does not miss this text. 
 
@@ -20,7 +20,7 @@ You always have the option to send or not send the email, but this must be desig
 
 <!-- -->
 
--   **Media-ID questioned:** This email is specifically for records that include correctly identified media mixed with incorrectly identified media. This could be a drag-and-drop error or misidentification. The email explains to fix this using [Change Species](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.jio7pvif6fcf). NOTE: This email will appear unfinished if you do not add text in the target box. 
+-   **Media-ID questioned:** This email is specifically for records that include correctly identified media mixed with incorrectly identified media. This could be a drag-and-drop error or misidentification. The email explains to fix this using [Change Species](Other_Reviewing_Options.qmd#change-species). NOTE: This email will appear unfinished if you do not add text in the target box. 
 
 <!-- -->
 
@@ -32,7 +32,7 @@ You always have the option to send or not send the email, but this must be desig
 
 <!-- -->
 
--   **Species-Misidentified:** This email explains that a species has been misidentified and gives instructions for how to make the correction using [Change Species](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.jio7pvif6fcf). NOTE: This email will appear unfinished if you do not add text in the target box, hopefully including the correct species and some additional helpful ID notes. 
+-   **Species-Misidentified:** This email explains that a species has been misidentified and gives instructions for how to make the correction using [Change Species](Other_Reviewing_Options.qmd#change-species). NOTE: This email will appear unfinished if you do not add text in the target box, hopefully including the correct species and some additional helpful ID notes. 
 
 <!-- -->
 

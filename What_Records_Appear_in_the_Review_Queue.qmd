@@ -1,6 +1,6 @@
 # What records appear in the Review Queue? 
 
-Records are “flagged” for the Review Queue primarily through an automated process involving expert-created filters (see [Part II](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.63twvhl9ql2) for more on filters). These filters set expected counts by date for each species in each region. Records are flagged by filters for the following reasons:  
+Records are “flagged” for the Review Queue primarily through an automated process involving expert-created filters (see [Part II](Your_Filter_Assignment.qmd) for more on filters). These filters set expected counts by date for each species in each region. Records are flagged by filters for the following reasons:  
 
 -   **Rarity:** a species that is rare or unusual in the region; these species are set to a limit of zero year-round on filters. 
 
@@ -14,7 +14,7 @@ Records are “flagged” for the Review Queue primarily through an automated pr
 
 <!-- -->
 
--   **Not on checklist:** meaning the species is not included on your filter at all. Examples include a first state record, a record new to the region, novel Escapee exotics, newly-recorded hybrids, or even regular subspecies or spuhs (e.g., scoter sp.) that are not shown on the current checklist. If the bird is expected and deserves to be on the list of species, please be sure to [add it to the filter](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.ddqzi24om1hs)! Note that [we don’t recommend](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.ayu5yluvq91e) including all subspecies options, but distinctive and well-known ones should be included, especially when two or more occur in a region. 
+-   **Not on checklist:** meaning the species is not included on your filter at all. Examples include a first state record, a record new to the region, novel Escapee exotics, newly-recorded hybrids, or even regular subspecies or spuhs (e.g., scoter sp.) that are not shown on the current checklist. If the bird is expected and deserves to be on the list of species, please be sure to [add it to the filter](Filter_Basics.qmd#editing-a-filter)! Note that [we don’t recommend](Non-species_Taxa_on_eBird_Filters.qmd) including all subspecies options, but distinctive and well-known ones should be included, especially when two or more occur in a region. 
 
 <!-- -->
 
@@ -22,7 +22,7 @@ Records are “flagged” for the Review Queue primarily through an automated pr
 
 <!-- -->
 
--   **Records for Rereview**: There are several additional ways that a record can appear in the Review Queue, including records flagged by Media Reviewers as potential photo errors or records set to Rereview by a reviewer. They all appear with Status of Rereview, highlighted in orange. Be sure to always read the History for any record set to Rereview. Please see [Rereview Status](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.mtwv9rk14p0m) below for more on these. 
+-   **Records for Rereview**: There are several additional ways that a record can appear in the Review Queue, including records flagged by Media Reviewers as potential photo errors or records set to Rereview by a reviewer. They all appear with Status of Rereview, highlighted in orange. Be sure to always read the History for any record set to Rereview. Please see [Rereview Status](Review_Decision_Status_and_Reason.qmd#review-status) below for more on these. 
 
 **How often are flagged records added to the Review Queue?**
 
@@ -30,4 +30,4 @@ Records are harvested by the “Review Robot” once every 15 minutes for the Re
 
 **Why was this unexceptional record flagged for review?**
 
-If a record is harvested for the Review Queue because of a high count and the eBirder later reduces the count to a value that is not flagged by the filter, this **does not** remove the record from the Review Queue. This can sometimes make it seem as if the record was flagged erroneously. The last edited date on the [Submission Page](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.m9dxnj55lxvo) may be helpful, since it could show an edit since the record was flagged, but **note that reviewers sending emails are also logged as changes here**. These records are usually easy decisions and can be accepted using a Review Reason of Record-Not exceptional (See [Appendix A](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.sglyuhchgvet)). Note that running your filters will remove these records from the queue. See [Part II](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.63twvhl9ql2), eBird filters.
+If a record is harvested for the Review Queue because of a high count and the eBirder later reduces the count to a value that is not flagged by the filter, this **does not** remove the record from the Review Queue. This can sometimes make it seem as if the record was flagged erroneously. The last edited date on the [Submission Page](The_eBird_Checklist_Page.qmd) may be helpful, since it could show an edit since the record was flagged, but **note that reviewers sending emails are also logged as changes here**. These records are usually easy decisions and can be accepted using a Review Reason of Record-Not exceptional (See [Appendix A](Review_Reasons.qmd)). Note that running your filters will remove these records from the queue. See [Part II](Your_Filter_Assignment.qmd), eBird filters.

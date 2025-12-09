@@ -14,7 +14,7 @@ The metadata (effort metrics such as start time, duration, distance, etc.) displ
 
 **Public/Not Public:** In almost all cases, reviewers can change a checklist from Not Public to Public or vice versa. See the next section; see also our page about[ The eBird Data Quality and Review Process](https://support.ebird.org/support/solutions/articles/48000795278). 
 
-**You can also review observations on the Checklist Page** by selecting the checkboxes next to the species that require action and then proceed as detailed in [Reviewing Observations](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.nv3x1bt8ygan) above.  
+**You can also review observations on the Checklist Page** by selecting the checkboxes next to the species that require action and then proceed as detailed in [Reviewing Observations](How_to_Review_Observations.qmd#reviewing-observations-from-the-review-queue) above.  
 
 ## Checklist-level Review 
 
@@ -42,7 +42,7 @@ The first question you ask during eBird review should be whether there are probl
 
 -   Checklist is a combination of multiple parties’ lists 
 
-When problems apply to the entire checklist, mark the checklist Not Public in the upper green box on the Checklist Page. A reason is also required, as it helps other reviewers to understand the rationale for treating this checklist as Not Public. Adding Notes is recommended. The Checklist-level review reasons are listed and explained fully in [Appendix A](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.sglyuhchgvet).  
+When problems apply to the entire checklist, mark the checklist Not Public in the upper green box on the Checklist Page. A reason is also required, as it helps other reviewers to understand the rationale for treating this checklist as Not Public. Adding Notes is recommended. The Checklist-level review reasons are listed and explained fully in [Appendix A](Review_Reasons.qmd).  
 
 Before marking a checklist Not Public, please do consider whether it has rich media and their potential value; marking a checklist Not Public means that all its photos, audio recordings, and videos will be inaccessible and also marked Unconfirmed. Photographs, audio recordings, and video add important vouchered records and are used in a suite of additional ways in the eBird/Macaulay Library ecosystem (including Illustrated Checklists, Photo ID/Sound ID research, display in species accounts, and more) and these are important to preserve whenever possible. We ask that reviewers please consider taking the extra effort to correspond with eBird users to ensure that well-vouchered checklists are preserved whenever possible. 
 
@@ -83,7 +83,7 @@ There are several situations that result in actions being taken on checklists th
 
 <!-- -->
 
--   **Date of 1 Jan 1900:** eBird allows observers to[ build life lists](https://support.ebird.org/support/solutions/articles/48000804866), country lists etc. by submitting incidental checklists with no start time for 1 Jan 1900. Submissions from this exact date are automatically treated as Not Public with the reason Checklist-List Building. In the rare event that a legitimate historical entry comes from 1 Jan 1900, reviewers can override this designation. Note also that reviewers should mark list building efforts from other dates in the same way, but this is a manual, not automated, process (see [Checklist-level Review Reasons](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.10igflp6x4d3) below). 
+-   **Date of 1 Jan 1900:** eBird allows observers to[ build life lists](https://support.ebird.org/support/solutions/articles/48000804866), country lists etc. by submitting incidental checklists with no start time for 1 Jan 1900. Submissions from this exact date are automatically treated as Not Public with the reason Checklist-List Building. In the rare event that a legitimate historical entry comes from 1 Jan 1900, reviewers can override this designation. Note also that reviewers should mark list building efforts from other dates in the same way, but this is a manual, not automated, process (see [Checklist-level Review Reasons](Checklist-level_Review_Reasons.qmd). 
 
 <!-- -->
 
@@ -95,4 +95,4 @@ There are several situations that result in actions being taken on checklists th
 
 <!-- -->
 
--   **Blocklisted Users:** some observers violate eBird terms of use or otherwise do not comply with the[ eBird Code of Conduct](https://support.ebird.org/support/solutions/articles/48000795278). If observers are placed on the eBird blocklist (see [eBird Blocklist](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.5918rexofwsf) below) all submissions appear as Observer-Suppressed. These blocklisted observers are still able to share checklists, but should not do so, since this review reason will carry over to observations from the non-blocklisted observer. This is not the responsibility of the reviewer to correct, but this should be explained to the users involved if checklists are being shared from a blocklisted account.
+-   **Blocklisted Users:** some observers violate eBird terms of use or otherwise do not comply with the[ eBird Code of Conduct](https://support.ebird.org/support/solutions/articles/48000795278). If observers are placed on the eBird blocklist (see [eBird Blocklist](eBird_Blocklist.qmd) below) all submissions appear as Observer-Suppressed. These blocklisted observers are still able to share checklists, but should not do so, since this review reason will carry over to observations from the non-blocklisted observer. This is not the responsibility of the reviewer to correct, but this should be explained to the users involved if checklists are being shared from a blocklisted account.

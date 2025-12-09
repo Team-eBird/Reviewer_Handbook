@@ -16,7 +16,7 @@ Some users may opt to leave their first and last name blank, which is not prefer
 
 **Location**: can be thought of as the point on the map where the data collection event occurred, but is more specifically defined by a Location identifier (e.g., L2141044; these are used in the URLs for hotspots, such as <https://ebird.org/hotspot/L2141044>), each of which has a unique latitude and longitude for map display as well as other attributes like country, state/province, county, whether or not it is a hotspot, and sometimes other attributes (whether it falls within a KBA/IBA, National Wildlife Refuge, etc.)  
 
-**Filter**: an automated data-verification procedure that checks each record against a predefined maximum count of that species for that date. We consider a filter to be the full list of possible species for a given region (could be country, state, county, or a custom region), with each species having its own **Filter Limit**. For more on how filters are set and used, see the [Filters](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.63twvhl9ql2) section below.  
+**Filter**: an automated data-verification procedure that checks each record against a predefined maximum count of that species for that date. We consider a filter to be the full list of possible species for a given region (could be country, state, county, or a custom region), with each species having its own **Filter Limit**. For more on how filters are set and used, see the [Filters](Your_Filter_Assignment.qmd) section below.  
 
 **Filter Limits**: the specific count values within a date range for a species within the context of a filter. Any given filter is thus made up of filter limits for all species on the filter. 
 
@@ -24,7 +24,7 @@ Some users may opt to leave their first and last name blank, which is not prefer
 
 **Polygon:** The region to which a filter is attached, such that all reports within the polygon will use the specific filter. A polygon can be a geopolitical region (country, state, county) or a custom polygon (Arbitrary Polygon) enabled by eBird Central. Note that one filter can be active for multiple polygons but that each polygon can only be connected to one filter.
 
-**Review Decision, Status, and Reason**: three separate designations that govern how and where records are displayed in the Review Tools and on public eBird output. Some of these designations are assigned automatically based on filters or reviewer actions, while others are manually specified by reviewers. See [Review Decision, Status, and Reason](https://docs.google.com/document/d/1gmi74SDISCWFA1CJbfjHqtc4yLOPHlWg9LolSBdFNI0/edit#heading=h.ppl46kjchoim) below for more information.  
+**Review Decision, Status, and Reason**: three separate designations that govern how and where records are displayed in the Review Tools and on public eBird output. Some of these designations are assigned automatically based on filters or reviewer actions, while others are manually specified by reviewers. See [Review Decision, Status, and Reason](Review_Decision_Status_and_Reason.qmd) below for more information.  
 
 **Media:** photographs, audio recordings, or video files. Observers should always add media[directly to eBird checklists](https://support.ebird.org/support/solutions/articles/48000825713-add-photos-and-sounds) to ensure they are archived with Macaulay Library. eBird and the Macaulay Library are tightly integrated and review decisions on eBird observations or checklists also affect media in the Macaulay Library. 
 
