@@ -79,7 +79,7 @@ website:
             text: Kiosk Filters
           - href: Non-species_Taxa_on_eBird_Filters.qmd
             text: Non-species Taxa on eBird Filters
-      - section: "Part 3: eBird Policites and Miscellania"
+      - section: "Part 3: eBird Policies and Miscellania"
         contents: 
           - href: Be_nice.qmd
             text: Be Nice
