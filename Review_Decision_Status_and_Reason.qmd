@@ -20,7 +20,7 @@ Review Status is a designation set by automated processes or by reviewers. A rec
 
 This Review Status can be associated with either Accepted or Unconfirmed records and indicates that a record has been reviewed.
 
-### **Unreviewed** 
+### **Unreviewed**
 
 This Review Status can be associated with either Accepted or Unconfirmed records and indicates that a record has not been reviewed.
 

@@ -2,7 +2,7 @@
 
 The following terms appear throughout the Review Tools and this handbook. If you are reading this for the first time, please familiarize yourself with the following definitions (commonly occurring synonyms are provided in parentheses). 
 
-**Species (Taxon):** a unique taxon from the[eBird taxonomy](https://ebird.org/science/the-ebird-taxonomy) including species as well as slashes, spuhs, subspecies groups, domestics, intergrades, forms, and hybrids. Species and taxon are used more or less interchangeably in this document. Although referring to taxon is technically correct, we often use the term species for examples below, even though non-species taxa could equally be involved in any eBird observation.
+**Species (Taxon):** a unique taxon from the [eBird taxonomy](https://ebird.org/science/the-ebird-taxonomy) including species as well as slashes, spuhs, subspecies groups, domestics, intergrades, forms, and hybrids. Species and taxon are used more or less interchangeably in this document. Although referring to taxon is technically correct, we often use the term species for examples below, even though non-species taxa could equally be involved in any eBird observation.
 
 **Record (Observation)**: a unique report of a species and its count; the most elemental piece of data in eBird.  
 
