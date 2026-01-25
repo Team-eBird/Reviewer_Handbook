@@ -1,6 +1,6 @@
 # Your review assignment  
 
-Each reviewer is set up with at least one Review Assignment. Assignments usually correspond to a region (e.g., country, state, county) but can also be defined by Arbitrary Polygons (custom filter regions developed at Cornell). These Review Assignments show on your[profile page](https://ebird.org/profile) and in the Review Tools and define what records you have access to in the Review Tools. Reviewers cannot review records from regions not included in their Review Assignments.  
+Each reviewer is set up with at least one Review Assignment. Assignments usually correspond to a region (e.g., country, state, county) but can also be defined by Arbitrary Polygons (custom filter regions developed at Cornell). These Review Assignments show on your [profile page](https://ebird.org/profile) and in the Review Tools and define what records you have access to in the Review Tools. Reviewers cannot review records from regions not included in their Review Assignments.  
 
 Please note that Review Assignments are particularly useful in Quick Review (see [Quick Review](Quick_Review.qmd)) since other filtering tools are not currently provided (e.g., filters by county, state, or species). If you review for an area larger than one county (or one state/province in areas that don’t have counties in eBird) then it may be useful to have multiple review assignments for the purposes of filtering.  
 

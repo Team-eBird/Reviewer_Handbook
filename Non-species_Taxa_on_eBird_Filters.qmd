@@ -4,4 +4,4 @@ The use of non-species taxa (subspecies, slashes, spuhs, hybrids, intergrades, d
 
 For the U.S. and Canada, there is a companion spreadsheet (**Filter taxa recommendations_USA and Canada.xlsx**) that gives formal recommendations for all potential non-species taxa north of Mexico. This spreadsheet categorizes all eBird non-species taxa in the three categories described below in the ISSF (subspecies group) example. In addition to providing recommendations for all non-species taxa this document also provides specific recommendations for all introduced species. US and Canada editors should refer to this document and strive to make your filters consistent with these recommendations. 
 
-This file is available here:[ https://tinyurl.com/eBirdReview](https://tinyurl.com/eBirdReview)
+This file is available here: <https://tinyurl.com/eBirdReview>

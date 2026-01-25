@@ -12,7 +12,7 @@ You always have the option to send or not send the email, but this must be desig
 
 **Email templates for Unconfirm and Defer**
 
--   **Documentation Inadequate-Count:** This email asks the observer for more documentation on a high count and explains why it is important, and links to[ our article on counting birds](https://support.ebird.org/en/support/solutions/articles/48000838845-how-to-count-birds). 
+-   **Documentation Inadequate-Count:** This email asks the observer for more documentation on a high count and explains why it is important, and links to [our article on counting birds](https://support.ebird.org/en/support/solutions/articles/48000838845-how-to-count-birds). 
 
 <!-- -->
 

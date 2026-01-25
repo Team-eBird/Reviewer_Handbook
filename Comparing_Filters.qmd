@@ -2,7 +2,7 @@
 
 This new tool (released June 2019) allows direct comparison of filter limits for any species (or other taxon) between checklist filters within a given region (county, state, country). Editors with permissions to edit two or more active filters can click the hyperlinked name of any species and see all filter limits for that species on filters they have permissions to edit. The reviewer can copy, edit, and save the filter limits using the same tools described above for filter editing. You will only see filters you have permissions to edit; if you want to compare to adjacent regions, please ask your regional coordinator or eBird Central about expanding your filter editing privileges. 
 
-When you click the species name you will be taken to a page showing all filter limits for specieswithin the parent region.  
+When you click the species name you will be taken to a page showing all filter limits for species within the parent region.  
 
 If you are looking at a county filter, and you click a species, you'll get the filter limits for that species within the parent state/province/district. If you are looking at a state/province/district filter, and you click the species, you'll get all the filters within that country. Similarly, if you have Arbitrary Polygons, these will be displayed for the "parent region", which is determined by the region code at the beginning of the polygon’s name (not the filter name). You can check the name of your polygons by clicking the Regions link; if the name does not begin with a region code and it is not behaving as expected, we will have to rename the polygon at eBird Central. 
 

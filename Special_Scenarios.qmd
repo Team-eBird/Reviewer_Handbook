@@ -14,7 +14,7 @@ Occasionally wild birds end up inside buildings where they may spend the winter.
 
 ## Remotely-sensed birds 
 
-Reporting remotely-sensed birds in eBird is permitted but not encouraged (we explicitly[ discourage it in eBird’s Help Center](https://support.ebird.org/en/support/solutions/articles/48000795623-ebird-rules-and-best-practices#Why-doesn't-eBird-accept-observations-of-dead,-captive,-or-remotely-sensed-birds?)), but we also know that these checklists will continue to come in. Checklists built from watching webcams or identifying birds from other remote-sensing projects birds can be Public in eBird, but the eBirder must abide by the below guidelines. Records of remotely-sensed birds can be Accepted if they are sufficiently documented. Since remote sensing involves capturing and archiving imagery and/or audio, review is usually straightforward. Remotely-sensed checklists must adhere to these guidelines: 
+Reporting remotely-sensed birds in eBird is permitted but not encouraged (we explicitly [discourage it in eBird’s Help Center](https://support.ebird.org/en/support/solutions/articles/48000795623-ebird-rules-and-best-practices#Why-doesn't-eBird-accept-observations-of-dead,-captive,-or-remotely-sensed-birds?)), but we also know that these checklists will continue to come in. Checklists built from watching webcams or identifying birds from other remote-sensing projects birds can be Public in eBird, but the eBirder must abide by the below guidelines. Records of remotely-sensed birds can be Accepted if they are sufficiently documented. Since remote sensing involves capturing and archiving imagery and/or audio, review is usually straightforward. Remotely-sensed checklists must adhere to these guidelines: 
 
 1.  Report on a checklist using Incidental protocol and “No” to all species reported because remote sensing cannot match the detection abilities of an observer in the field. 
 
@@ -42,7 +42,7 @@ Exceptions can be made for records that are particularly unusual following the r
 
 <!-- -->
 
-3.  Reports of dead birds should use the Historical or Incidental[ protocol](https://support.ebird.org/support/solutions/articles/48000950859) and a count of at least 1 (not zero). Answer “No” to the question “Are all species being reported?” 
+3.  Reports of dead birds should use the Historical or Incidental [protocol](https://support.ebird.org/support/solutions/articles/48000950859) and a count of at least 1 (not zero). Answer “No” to the question “Are all species being reported?” 
 
 <!-- -->
 
@@ -50,7 +50,7 @@ Exceptions can be made for records that are particularly unusual following the r
 
 <!-- -->
 
-5.  Comments should address the condition of the bird. For a detailed guide to estimating time of death in selected wildlife species see[ this document](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1063&context=nebgamestaff). 
+5.  Comments should address the condition of the bird. For a detailed guide to estimating time of death in selected wildlife species see [this document](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1063&context=nebgamestaff). 
 
 Examples of appropriate dead bird reports include Maine’s first Trindade Petrel (<https://ebird.org/checklist/S25558221>) or the only US record of Gray Nightjar (<https://ebird.org/checklist/S21527383>). 
 

@@ -2,12 +2,12 @@
 
 Having a fundamental understanding of the Review Queue and terms, you are now ready to review records. The majority of records are very easy to review, and simply require a quick look at the date, location, count, and documentation for the species. However, we hope that during this process reviewers are mentally checking three main factors in sequence:  
 
-1.  **Is the checklist acceptable?** Your first step in any review should be to consider whether the checklist is suitable for public display in eBird. In almost all cases the answer is yes, but if it is not (i.e., location is not accurately plotted, date is inaccurate or spans multiple days, is an obvious life list entry, or is otherwise unsuitable for eBird’s scientific database) then the entire checklist should be reviewed: see [Checklist-level review](The_eBird_Checklist_Page.qmd#checklist-level-review) below. The investigation of checklist-level issues is important because a problematic checklist likely will also include additional Accepted records, but these should not be used for science or public output if the entire checklist is problematic.  \
+1.  **Is the checklist acceptable?** Your first step in any review should be to consider whether the checklist is suitable for public display in eBird. In almost all cases the answer is yes, but if it is not (i.e., location is not accurately plotted, date is inaccurate or spans multiple days, is an obvious life list entry, or is otherwise unsuitable for eBird’s scientific database) then the entire checklist should be reviewed: see [Checklist-level review](The_eBird_Checklist_Page.qmd#checklist-level-review) below. The investigation of checklist-level issues is important because a problematic checklist likely will also include additional Accepted records, but these should not be used for science or public output if the entire checklist is problematic. \
      
 
 <!-- -->
 
-2.  **Is the observation acceptable?** Review and assessment of the species identity and count is the core of the eBird review process. Remember that the filters are not perfect and may flag expected species (or fail to catch unusual ones). Every review should focus on the documentation provided but should also consider the record in context. The nuances of this decision are discussed at length below. \
+2.  **Is the observation acceptable?** Review and assessment of the species identity and count is the core of the eBird review process. Remember that the filters are not perfect and may flag expected species (or fail to catch unusual ones). Every review should focus on the documentation provided but should also consider the record in context. The nuances of this decision are discussed at length below.\
      
 
 <!-- -->

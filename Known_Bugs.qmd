@@ -32,8 +32,8 @@ This PDF document is not public. Please contact us directly to receive this docu
 
 **Hotspot Management in eBird** 
 
-eBird has a separate team managing eBird hotspots; eBird Reviewers are invited to help with this. The hotspot management process is described in a separate document, which is distributed to all hotspot reviewers. This includes both the review and acceptance of new hotspots and management of existing hotspots. This is available here:[ https://tinyurl.com/eBirdReview](https://tinyurl.com/eBirdReview)  
+eBird has a separate team managing eBird hotspots; eBird Reviewers are invited to help with this. The hotspot management process is described in a separate document, which is distributed to all hotspot reviewers. This includes both the review and acceptance of new hotspots and management of existing hotspots. This is available here: <https://tinyurl.com/eBirdReview>  
 
 **Filter taxa recommendations** (US and Canada)
 
-A set of .xlsx documents provide recommendations for non-species taxa to include on filters in the US and Canada and as continental or nine simplified regional versions. This document also provides official Introduced/Exotic species recommendations for the US and Canada. US and Canada reviewers should strive to conform with these guidelines on your filters. Reviewers outside of those countries may refer to it for guidance. We would welcome volunteers willing to compile similar documents for other continents or regions. This is also available here:[ https://tinyurl.com/eBirdReview](https://tinyurl.com/eBirdReview)
+A set of .xlsx documents provide recommendations for non-species taxa to include on filters in the US and Canada and as continental or nine simplified regional versions. This document also provides official Introduced/Exotic species recommendations for the US and Canada. US and Canada reviewers should strive to conform with these guidelines on your filters. Reviewers outside of those countries may refer to it for guidance. We would welcome volunteers willing to compile similar documents for other continents or regions. This is also available here: <https://tinyurl.com/eBirdReview>

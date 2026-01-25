@@ -2,7 +2,7 @@
 
 Each eBird observation is part of an eBird checklist, also known as an eBird Submission or “sub.” Viewing the entire checklist also may give you information to assess the experience of the person reporting the record. If the checklist contains a number of questionable records, you may be more inclined to Unconfirm flagged observations without further investigation. **Verifying the overall acceptability of a checklist should be the first step in your review process.**  
 
-Each checklist is defined by a unique Submission ID (e.g., S45355741) which is also part of the URL for the checklist page in eBird (e.g.,[ https://ebird.org/checklist/S45355741](https://ebird.org/checklist/S45355741)). Try clicking the Submission ID from the Review Queue, which will take you to a Submission page like this:
+Each checklist is defined by a unique Submission ID (e.g., S45355741) which is also part of the URL for the checklist page in eBird (e.g.,<https://ebird.org/checklist/S45355741>). Try clicking the Submission ID from the Review Queue, which will take you to a Submission page like this:
 
 ![](images/paste-6.png){fig-align="center"}
 
@@ -12,7 +12,7 @@ Importantly, **Last Edited Date** is only visible on this page and applies to th
 
 The metadata (effort metrics such as start time, duration, distance, etc.) displayed on the Checklist Page will vary depending on the protocol used and other specifics. Some effort metrics, such as automatic Mobile information tags from eBird mobile, are only visible on the public checklist page. Other metadata, like the GPS track associated with a traveling checklist from eBird Mobile, are visible only to the checklist owner(s).  
 
-**Public/Not Public:** In almost all cases, reviewers can change a checklist from Not Public to Public or vice versa. See the next section; see also our page about[ The eBird Data Quality and Review Process](https://support.ebird.org/support/solutions/articles/48000795278). 
+**Public/Not Public:** In almost all cases, reviewers can change a checklist from Not Public to Public or vice versa. See the next section; see also our page about [The eBird Data Quality and Review Process](https://support.ebird.org/support/solutions/articles/48000795278). 
 
 **You can also review observations on the Checklist Page** by selecting the checkboxes next to the species that require action and then proceed as detailed in [Reviewing Observations](How_to_Review_Observations.qmd#reviewing-observations-from-the-review-queue) above.  
 
@@ -83,7 +83,7 @@ There are several situations that result in actions being taken on checklists th
 
 <!-- -->
 
--   **Date of 1 Jan 1900:** eBird allows observers to[ build life lists](https://support.ebird.org/support/solutions/articles/48000804866), country lists etc. by submitting incidental checklists with no start time for 1 Jan 1900. Submissions from this exact date are automatically treated as Not Public with the reason Checklist-List Building. In the rare event that a legitimate historical entry comes from 1 Jan 1900, reviewers can override this designation. Note also that reviewers should mark list building efforts from other dates in the same way, but this is a manual, not automated, process (see [Checklist-level Review Reasons](Checklist-level_Review_Reasons.qmd). 
+-   **Date of 1 Jan 1900:** eBird allows observers to [build life lists](https://support.ebird.org/support/solutions/articles/48000804866), country lists etc. by submitting incidental checklists with no start time for 1 Jan 1900. Submissions from this exact date are automatically treated as Not Public with the reason Checklist-List Building. In the rare event that a legitimate historical entry comes from 1 Jan 1900, reviewers can override this designation. Note also that reviewers should mark list building efforts from other dates in the same way, but this is a manual, not automated, process (see [Checklist-level Review Reasons](Checklist-level_Review_Reasons.qmd). 
 
 <!-- -->
 
@@ -95,4 +95,4 @@ There are several situations that result in actions being taken on checklists th
 
 <!-- -->
 
--   **Blocklisted Users:** some observers violate eBird terms of use or otherwise do not comply with the[ eBird Code of Conduct](https://support.ebird.org/support/solutions/articles/48000795278). If observers are placed on the eBird blocklist (see [eBird Blocklist](eBird_Blocklist.qmd) below) all submissions appear as Observer-Suppressed. These blocklisted observers are still able to share checklists, but should not do so, since this review reason will carry over to observations from the non-blocklisted observer. This is not the responsibility of the reviewer to correct, but this should be explained to the users involved if checklists are being shared from a blocklisted account.
+-   **Blocklisted Users:** some observers violate eBird terms of use or otherwise do not comply with the [eBird Code of Conduct](https://support.ebird.org/support/solutions/articles/48000795278). If observers are placed on the eBird blocklist (see [eBird Blocklist](eBird_Blocklist.qmd) below) all submissions appear as Observer-Suppressed. These blocklisted observers are still able to share checklists, but should not do so, since this review reason will carry over to observations from the non-blocklisted observer. This is not the responsibility of the reviewer to correct, but this should be explained to the users involved if checklists are being shared from a blocklisted account.

@@ -8,7 +8,7 @@ Each row in the Review Queue has the basic information you will need to review a
 
 ## Method 1: reviewing individual records.
 
-Click on the email icon next to any record. From here you’ll see a template with three options: Unconfirm, Defer, or Accept. In most cases, you’ll choose Unconfirm or Accept. See [this section](Review_Decision_Status_and_Reason.qmd#review-status)for more information on Defer. 
+Click on the email icon next to any record. From here you’ll see a template with three options: Unconfirm, Defer, or Accept. In most cases, you’ll choose Unconfirm or Accept. See [this section](Review_Decision_Status_and_Reason.qmd#review-status) for more information on Defer. 
 
 You’ll be presented with a smaller modal to select a Review Decision (a default most likely one will be pre-selected) and the option to send an email. 
 

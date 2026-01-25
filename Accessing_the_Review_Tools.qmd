@@ -8,4 +8,4 @@ Review Tools are designed to work best in Safari, Chrome, and Firefox browsers (
 
 **How do I log in?**
 
-Go to this URL:<https://review.ebird.org/admin/>. If prompted to log in, enter your eBird username and password. If you ever see an unexpected “Congratulations! You have no more records to review” message, you may just need to log out and log back in.
+Go to this URL: <https://review.ebird.org/admin/>. If prompted to log in, enter your eBird username and password. If you ever see an unexpected “Congratulations! You have no more records to review” message, you may just need to log out and log back in.

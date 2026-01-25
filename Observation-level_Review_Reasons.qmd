@@ -61,7 +61,7 @@ In Quick Review, all of the Accept options have the option to send a Thank you e
 Below is the full suite of review reasons and where they are found. Those with asterisks (\*) are in the traditional review tools only (i.e., not available in Quick Review) and those with a dagger (†) are applied automatically and cannot be found in drop-down lists. 
 
 |  |  |  |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **ACCEPT**  | **UNCONFIRM**  | **OTHER**  |
 | Documentation-Photo/Video/Audio  | Species-Misidentified  | †Species-Flagged by filter  |
 | Documentation-Field Notes  | Documentation-Inadequate  | †Species-Identification Changed  |

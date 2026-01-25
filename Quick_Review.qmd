@@ -1,6 +1,6 @@
 # Quick Review 
 
-Quick Review can be selected from the Quick Review tab at the top of the browser and also can be accessed from a direct link:[ https://review.ebird.org/admin/qr.htm](https://review.ebird.org/admin/qr.htm). Our Quick Review webinar walked through the new tool and explained a bit more about the rationale behind its design and plans for the future. We encourage all reviewers to[ watch this video about Quick Review](https://vod.video.cornell.edu/media/eBird+Quick+Review+webinar_12Nov2019/1_s0barnj8). 
+Quick Review can be selected from the Quick Review tab at the top of the browser and also can be accessed from a direct link: <https://review.ebird.org/admin/qr.htm>. Our Quick Review webinar walked through the new tool and explained a bit more about the rationale behind its design and plans for the future. We encourage all reviewers to [watch this video about Quick Review](https://vod.video.cornell.edu/media/eBird+Quick+Review+webinar_12Nov2019/1_s0barnj8). 
 
 **Advantages of Quick Review**
 
