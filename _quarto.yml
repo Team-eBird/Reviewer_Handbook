@@ -21,7 +21,8 @@ website:
         text: Introduction
       - href: Contacting_Other_Reviewers_and_eBird_Central.qmd
         text: Contacting Other Reviewers and eBird Central
-      - section: "Part 1: How to use the Review Tools"
+      - href: Part_1_How_to_use_the_Review_Tools.qmd
+        section: "Part 1: How to use the Review Tools"
         contents: 
           - href: Important_Terms_to_Know.qmd
             text: Important Terms to Know
@@ -61,7 +62,8 @@ website:
             text: Using eBird's Explore Data Tools to Find Records for Review
           - href: Sensitive_Species.qmd
             text: Sensitive Species
-      - section: "Part 2: eBird Filters"
+      - href: Part_2_eBird_Filters.qmd
+        section: "Part 2: eBird Filters"
         contents: 
           - href: Your_Filter_Assignment.qmd
             text: Your Filter Assignment
@@ -79,7 +81,8 @@ website:
             text: Kiosk Filters
           - href: Non-species_Taxa_on_eBird_Filters.qmd
             text: Non-species Taxa on eBird Filters
-      - section: "Part 3: eBird Policies and Miscellania"
+      - href: Part_3_eBird_Policies_and_Miscellania.qmd
+        section: "Part 3: eBird Policies and Miscellania"
         contents: 
           - href: Be_nice.qmd
             text: Be Nice
@@ -99,6 +102,7 @@ website:
             text: eBird Blocklist
           - href: Known_Bugs.qmd
             text: Known Bugs
+      - href: APPENDIX_A_Review_Reasons.qmd
       - section: "APPENDIX A - Review Reasons"
         contents: 
           - href: Review_Reasons.qmd

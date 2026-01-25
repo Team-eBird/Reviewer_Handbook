@@ -1,0 +1,10 @@
+## Part 2: eBird Filters
+
+1. [Your Filter Assignment](Your_Filter_Assignment.qmd)
+2. [Filter Basics](Filter_Basics.qmd)
+3. [Review Tools Filter Tool](Review_Tools_Filter_Tool.qmd)
+4. [Comparing Filters](Comparing_Filters.qmd)
+5. [eBird Central Filter Processes](eBird_Central_Filter_Processes.qmd)
+6. [Comparing Filters](Comparing_Filters.qmd)
+7. [Kiosk Filters](Kiosk_Filters.qmd)
+8. [Non-species Taxa on eBird Filters](Non-species_Taxa_on_eBird_Filters.qmd)

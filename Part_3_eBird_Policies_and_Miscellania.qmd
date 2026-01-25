@@ -1,0 +1,11 @@
+## Part 3: eBird Policies and Miscillania
+
+1. [Be Nice](Be_nice.qmd)
+2. [Novice eBirders and Merlin Sound ID](Novice_eBirders_and_Merlin_Sound_ID.qmd)
+3. [Timeliness](Timeliness.qmd)
+4. [Transparency](Transparency.qmd)
+5. [Review Teams](Review_Teams.qmd)
+6. [Records Committees](Records_Committees.qmd)
+7. [Special Scenarios](Special_Scenarios.qmd)
+8. [eBird Blocklist](eBird_Blocklist.qmd)
+9. [Known Bugs](Known_Bugs.qmd)
