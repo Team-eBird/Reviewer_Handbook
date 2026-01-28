@@ -83,7 +83,7 @@ There are several situations that result in actions being taken on checklists th
 
 <!-- -->
 
--   **Date of 1 Jan 1900:** eBird allows observers to [build life lists](https://support.ebird.org/support/solutions/articles/48000804866), country lists etc. by submitting incidental checklists with no start time for 1 Jan 1900. Submissions from this exact date are automatically treated as Not Public with the reason Checklist-List Building. In the rare event that a legitimate historical entry comes from 1 Jan 1900, reviewers can override this designation. Note also that reviewers should mark list building efforts from other dates in the same way, but this is a manual, not automated, process (see [Checklist-level Review Reasons](Checklist-level_Review_Reasons.qmd)).
+-   **Date of 1 Jan 1900:** eBird allows observers to [build life lists](https://support.ebird.org/support/solutions/articles/48000804866), country lists etc. by submitting incidental checklists with no start time for 1 Jan 1900. Submissions from this exact date are automatically treated as Not Public with the reason Checklist-List Building. In the rare event that a legitimate historical entry comes from 1 Jan 1900, reviewers can override this designation. Note also that reviewers should mark list building efforts from other dates in the same way, but this is a manual, not automated, process (see [Checklist-level Review Reasons](Checklist-level_Review_Reasons.qmd). 
 
 <!-- -->
 
