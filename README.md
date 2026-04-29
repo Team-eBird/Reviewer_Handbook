@@ -1,1 +1,0 @@
-eBird Reviewer Handbook
