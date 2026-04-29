@@ -75,8 +75,6 @@ website:
             text: Comparing Filters
           - href: eBird_Central_Filter_Processes.qmd
             text: eBird Central Filter Processes
-          - href: Comparing_Filters.qmd
-            text: Comparing Filters
           - href: Kiosk_Filters.qmd
             text: Kiosk Filters
           - href: Non-species_Taxa_on_eBird_Filters.qmd
